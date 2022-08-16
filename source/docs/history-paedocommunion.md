@@ -9,7 +9,7 @@ by Tommy Lee
 
 Why not let baptized infants and children back into the Lord's Supper? This request is not nearly so strange once it is understood that infant observance of the Lord's Supper was widespread in the early church.
 
-In 1975 Christian L. Keidel began his defense of the doctrine of paedocommunion with this question and assertion. Since that time, the claim that paedocommunion was a practice commonly exercised in the early church has been challenged repeatedly. 2 Surely the ancient custom concerning this issue is of some significance to the present generation as we wrestle with the puzzling question of paedocommunion.
+In 1975 Christian L. Keidel began his defense of the doctrine of paedocommunion with this question and assertion. Since that time, the claim that paedocommunion was a practice commonly exercised in the early church has been challenged repeatedly. [^2] Surely the ancient custom concerning this issue is of some significance to the present generation as we wrestle with the puzzling question of paedocommunion.
 
 Did the members of the early church include their infants and young children in their celebrations of the Lord's Supper? Is paedocommunion a doctrinal aberration in opposition to apostolic tradition with a historically defined beginning? Did the church fathers approve or disapprove of this practice? If the ancient church allowed infants and young children to commune at the Lord's Table, then why did the Western Church abandon this practice? If infants and young children mistakenly participated in the ancient church's communion services, then why does the Eastern Church still allow this practice to continue to this day? Is the exclusion of infants and young children from this sacrament a doctrinal aberration in opposition to apostolic tradition with a historically defined beginning? If paedocommunion was the ancient custom of the church, then was there ever any movement in the Western Church to restore infants and young children to the Lord's Table?
 
@@ -99,13 +99,13 @@ As Christ himself told us, And holy David says also:
 
 From the mouths of small children And of all innocent babes Has come forth God's praise That the adversary may be cast down.
 
-***
+-----
 
-Praise God, you children You tiny babes, For he will not drive you away, But feed you on his holy body.86
+Praise God, you children You tiny babes, For he will not drive you away, But feed you on his holy body.[^86]
 
-1 Christian L. Keidel, Is the Lord's Supper for Children?, Westminster Theological Journal XXXVII (1975): 301.
+[^1]: Christian L. Keidel, Is the Lord's Supper for Children?, Westminster Theological Journal XXXVII (1975): 301.
 
-2 For instance, in answer to Keidel's article, Roger T. Beckwith wrote that, Mr. Keidel calls upon the church to return to the practice of antiquity..., but in the remotest antiquity it appears that infant and child communion did not exist. Roger T. Beckwith, The Age of Admission to the Lord's Supper, Westminster Theological Journal XXXVIII (1976): 127. Also, Leonard J. Coppes states that the early fathers seem to have barred infants and children from participating in the Lord's Supper. Leonard J. Coppes, Daddy, May I Take Communion? (Thornton, Colorado: Leonard J. Coppes, 1988), 35. Years before Keidel's article, Theodore G. Tappert remarked that whether children participated in the Lord's Supper with their parents during the first centuries cannot be determined with certainty for want of evidence, but it is unlikely. Theodore G. Tappert, The Lord's Supper, (Philadelphia: Muhlenberg Press, 1961), 43
+[^2]: For instance, in answer to Keidel's article, Roger T. Beckwith wrote that, Mr. Keidel calls upon the church to return to the practice of antiquity..., but in the remotest antiquity it appears that infant and child communion did not exist. Roger T. Beckwith, The Age of Admission to the Lord's Supper, Westminster Theological Journal XXXVIII (1976): 127. Also, Leonard J. Coppes states that the early fathers seem to have barred infants and children from participating in the Lord's Supper. Leonard J. Coppes, Daddy, May I Take Communion? (Thornton, Colorado: Leonard J. Coppes, 1988), 35. Years before Keidel's article, Theodore G. Tappert remarked that whether children participated in the Lord's Supper with their parents during the first centuries cannot be determined with certainty for want of evidence, but it is unlikely. Theodore G. Tappert, The Lord's Supper, (Philadelphia: Muhlenberg Press, 1961), 43
 
 3 The Catholic Encyclopedia (New York: The Encyclopedia Press, Inc., 1908), s.v. Communion of Children, by Patrick Morrisroe.
 
@@ -197,4 +197,4 @@ economically, politically, and culturally, but at the end when the split came do
 
 85 DeMolen, 54-55.
 
-86 Cited in Rayburn, 514.
+[^86]: Cited in Rayburn, 514.
