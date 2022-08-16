@@ -11,9 +11,9 @@
             <p class="text-lg">Give your documentation a boost with Jigsaw. <br class="hidden sm:block">Generate elegant, static docs quickly and easily.</p>
 
             <div class="flex my-10">
-                <a href="/docs/getting-started" title="{{ $page->siteName }} getting started" class="bg-blue-500 hover:bg-blue-600 font-normal text-white hover:text-white rounded mr-4 py-2 px-6">Get Started</a>
+                <a href="/docs/purpose-statement" title="{{ $page->siteName }} documents" class="bg-blue-500 hover:bg-blue-600 font-normal text-white hover:text-white rounded mr-4 py-2 px-6">Documents</a>
 
-                <a href="https://jigsaw.tighten.co" title="Jigsaw by Tighten" class="bg-gray-400 hover:bg-gray-600 text-blue-900 font-normal hover:text-white rounded py-2 px-6">About Jigsaw</a>
+                <a href="docs/contact-us" title="Contact Us" class="bg-gray-400 hover:bg-gray-600 text-blue-900 font-normal hover:text-white rounded py-2 px-6">Contact Us</a>
             </div>
         </div>
 
@@ -30,7 +30,7 @@
                 Purpose Statement
             </h3>
 
-            <p>Blade is a powerful, simple, and beautiful templating language, and now you can use it for your static sites, not just your Laravel-powered apps.</p>
+            <p>The Federation of Reformed Churches (FORC) exists to glorify God. Its primary purpose is to serve and nurture local churches. <a href="docs/purpose-statement">Read More</a></p>
         </div>
 
         <div class="mb-8 mx-3 px-2 md:w-1/3">
@@ -40,7 +40,7 @@
                 Our Distinctives
             </h3>
 
-            <p>Markdown is the web’s leading format for writing articles, blog posts, documentation, and more. Jigsaw makes it painless to work with Markdown content.</p>
+            <p>Key areas where beliefs and practices ought to be allowed, embraced and encouraged. <a href="docs/distinctives">Read More</a></p>
         </div>
 
         <div class="mx-3 px-2 md:w-1/3">
@@ -49,7 +49,7 @@
             <h3 id="intro-mix" class="text-2xl text-blue-900 mb-0">
                 List of Churches
             </h3>
-            <p>Jigsaw comes pre-configured with Laravel Mix, a simple and powerful build tool. Use the latest frontend tech with just a few lines of code.</p>
+            <p>FORC Churches and contact information. <a href="docs/list-of-churches">Read More</a></p>
         </div>
     </div>
 </section>
