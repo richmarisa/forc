@@ -26,5 +26,5 @@ return [
         ],
 
     ],
-    'Jigsaw Docs' => 'https://jigsaw.tighten.co/docs/installation',
+
 ];
