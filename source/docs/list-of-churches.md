@@ -8,80 +8,66 @@ section: content
 ## Churches listed alphabetically by state and city
 
 ## Keel Mountain Presbyterian Church
-- currently meeting 4 PM Sundays
-- Gurley, AL 35748
-- Call for directions
-
-### Presbyter:
-- <a href="mailto:banjo5pkr@hughes.net">Dan Brown</a>(256) 776-4818 or (256) 651-1176
-
-
+<ul class="list-disc list-outside indent-8">
+    <li>Gurley, AL
+<ul>
+**Presbyter**
+<ul class="list-disc list-outside indent-8">
+    <li><a href="mailto:banjo5pkr@hughes.net">Dan Brown</a>(256) 776-4818 or (256) 651-1176
+</ul>
 
 ## Church of the King<br>
-- Peoria, IL
-- (309) 307-5890
-- nathan.riese@gmail.com
-- For worship times and location visit: cotkpeoria.wixsite.com/churchoftheking
-- Facebook: www.facebook.com/cotkpeoria
-
-### Presbyters:
-- Nathan Riese
-- Scott Price
-
+<ul class="list-disc list-outside indent-8">
+    <li>Peoria, IL
+    <li>nathan.riese@gmail.com
+    </li>Website: https://cotkpeoria.wixsite.com/churchoftheking
+    </li>Facebook: https://www.facebook.com/cotkpeoria
+</ul>
+**Presbyters**
+<ul class="list-disc list-outside indent-8">
+    <li>Nathan Riese
+    <li>Scott Price
+</ul>
 
 ## Christ Church, Ithaca, NY
-Meeting at 115 W. Clinton St., Ithaca, NY 14850
-
-Mailing Address:
-416 North Plain St.
-Ithaca, NY 14850
-607-280-8217
-
-- Sunday Worship: 12:30 pm
-- Website: christchurchithaca.net
-
-- Michael Jones, mjones54@twcny.rr.com
-- Ralph Reigle
+<ul class="list-disc list-outside indent-8">
+    <li>Sunday Worship: 12:30 pm, meeting in Candor, NY
+    <li>Website: https://christchurchithaca.net
+</ul>
+**Presbyters**
+<ul class="list-disc list-outside indent-8">
+    <li>Michael Jones, mjones54@twcny.rr.com
+    <li>Ralph Reigle
+</ul>
 
 
 ## St. Stephen's Anglican Church (Associate)
-- 10 Indian Trail Rd, Williamsville, NY 14221
-- Phone: (716) 631-8208
-
-- Sunday
-    - Morning Prayer: 10:30 AM
-    - Holy Communion: 11:00 AM
-
-- Thurday
-    - Evening Prayer: 5:00 PM
-
-- Website: ststephens-uec-wny.org
-
+<ul class="list-disc list-outside indent-8">
+    <li>Williamsville, NY
+    <li>Website: ststephens-uec-wny.org
+</ul>
 ### Presbyter:
-- Paul Slish, lemko@roadrunner.com,  716-837-1964
+<ul class="list-disc list-outside indent-8">
+    <li>Paul Slish, lemko@roadrunner.com,  716-837-1964
+</ul>
 
 ## Covenant Reformed Chapel
-- 3315 Perrydale; Greentown, OH 44630
-- Phone: (330) 494-6385
-- Sunday Worship: 10:30 AM
+<ul class="list-disc list-outside indent-8">
+    <li>Greentown, OH
+    <li>Phone: (330) 494-6385
+<ul>
 ### Presbyter:
-- Brandon Mantel
+<ul class="list-disc list-outside indent-8">
+    <li>Brandon Mantel
+</ul>
 
 ## Sovereign Christ Church
-- 371 Central Avenue; Mansfield, OH 44905
-
-- Mailing Address:<br>
-Sovereign Christ Church<br>
-4722 St. Rt. 314<br>
-Mount Gilead, OH 43338
-
-- Website: www.sovereignchrist.net
-
-Sunday Worship Time
-Worship 10:30 am
-Fellowship meal after worship
-
+<ul class="list-disc list-outside indent-8">
+    <li>Mansfield, OH 44905
+    <li>Website: https://www.sovereignchrist.net
+</ul>
 ### Presbyters:
-
-- Clint Zeigler, hiswordsrtrue@yahoo.com
-- Kyle Robbins
+<ul class="list-disc list-outside indent-8">
+    <li>Clint Zeigler, hiswordsrtrue@yahoo.com
+    <li>Kyle Robbins
+</ul>

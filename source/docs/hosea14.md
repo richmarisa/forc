@@ -6,7 +6,8 @@ section: content
 ---
 # Hosea 14:1-9
 
-By Josiah Spencer, a member of Covenant Reformed Chapel, Greentown, OH<br>
+### By Josiah Spencer
+### a member of Covenant Reformed Chapel, Greentown, OH
 November 2012
 
 In the first eight chapters of this book, Hosea is sharply reprimanding Israel for their national rebellion and apostasy. He repeatedly informs them of the punishment that lies ahead if they would not repent.� In this final chapter, he pleads with them to return to God and receive the forgiveness that God is so eager and willing to grant.  From these verses we can begin to understand what constitutes legitimate repentance and how wonderful the forgiveness of God is.

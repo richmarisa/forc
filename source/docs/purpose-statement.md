@@ -21,7 +21,7 @@ The FORC believes that the historic Reformed confessions best define the system 
 
 The FORC's distinct positions include:
 
-<ul class="list-disc list-inside">
+<ul class="list-disc list-outside indent-8">
 <li> That the world was created out of nothing in six normal days thousands of years ago.
 
 <li> We believe in an optimistic eschatology.
