@@ -11,7 +11,7 @@ section: content
 
 <ul class="list-disc list-outside indent-8">
     <li>Gurley, AL
-<ul>
+</ul>
 
 **Presbyter**
 
@@ -24,8 +24,8 @@ section: content
 <ul class="list-disc list-outside indent-8">
     <li>Peoria, IL
     <li>nathan.riese@gmail.com
-    </li>Website: https://cotkpeoria.wixsite.com/churchoftheking
-    </li>Facebook: https://www.facebook.com/cotkpeoria
+    <li>Website: https://cotkpeoria.wixsite.com/churchoftheking
+    <li>Facebook: https://www.facebook.com/cotkpeoria
 </ul>
 
 **Presbyters**
@@ -68,7 +68,7 @@ section: content
 <ul class="list-disc list-outside indent-8">
     <li>Greentown, OH
     <li>Phone: (330) 494-6385
-<ul>
+</ul>
 
 ### Presbyter:
 
