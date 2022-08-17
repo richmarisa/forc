@@ -5,7 +5,7 @@ extends: _layouts.documentation
 section: content
 ---
 # The History Of Paedocommunion: From The Early Church Until 1500
-by Tommy Lee
+#### by Tommy Lee
 
 ---
 

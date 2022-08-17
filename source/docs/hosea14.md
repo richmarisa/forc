@@ -6,8 +6,8 @@ section: content
 ---
 # Hosea 14:1-9
 
-### By Josiah Spencer
-### a member of Covenant Reformed Chapel, Greentown, OH
+#### By Josiah Spencer
+#### a member of Covenant Reformed Chapel, Greentown, OH
 November 2012
 
 In the first eight chapters of this book, Hosea is sharply reprimanding Israel for their national rebellion and apostasy. He repeatedly informs them of the punishment that lies ahead if they would not repent.� In this final chapter, he pleads with them to return to God and receive the forgiveness that God is so eager and willing to grant.  From these verses we can begin to understand what constitutes legitimate repentance and how wonderful the forgiveness of God is.
@@ -24,7 +24,7 @@ We must react to God's discipline by owning up and confessing our sin. It is not
 Verse 3 lists for us two of Israel's specific sins. 1) They had begun to worship idols made by their own hands instead of the Living God who created all things, and 2) They had trusted in men and horses for their safety instead of depending on Yahweh, the truly faithful and covenant-keeping God. We also must be specific as we confess our sins to God. When we generalize our sins, we begin to extenuate and justify them. We begin to undervalue the death of Christ and we become lazy in the war against our sins.
 
 A famous adage says that admitting you have a problem is the first step to overcoming that problem. The problem is, too many Christians believe that is also the final step. Confessing our sin is merely the beginning of repentance. We must also forsake our sin. As we confess our sin to God, we must ask Him to remove it from us. With David we must cry out, "Wash me thoroughly from my iniquity, and cleanse me from my sin! Purge me with hyssop, and I shall be clean;
-wash me, and I shall be whiter than snow!"[1] We must not harbor in our hearts a love for the sin that put Jesus on the cross! We must hate our sin and long to experience the righteousness that Christ won for us!
+wash me, and I shall be whiter than snow!"[^1] We must not harbor in our hearts a love for the sin that put Jesus on the cross! We must hate our sin and long to experience the righteousness that Christ won for us!
 
 In verse 4, God begins to speak. In verses 4 and 5, He gives three precious promises to anyone who truly repents of his sin. Firstly, He promises to heal our backsliding. He says that He will sanctify us and purify us from our former ways. In Ephesians 5:25-27 we read this command and promise: "Husbands, love your wives, as Christ loved the church and gave himself up for her, that he might sanctify her, having cleansed her by the washing of water with the word, so that he might present the church to himself in splendor, without spot or wrinkle or any such thing, that she might be holy and without blemish."
 
@@ -37,5 +37,6 @@ In verses 5-7, God describes what will happen to those who forsake their sin and
 and his fragrance like Lebanon. They shall return and dwell beneath my shadow;
 they shall flourish like the grain; they shall blossom like the vine; their fame shall be like the wine of Lebanon." Living beneath the shadow is the secret to truly contented and joyful living. Our sin has never done anything but cause hurt and pain for us and those we love. Why do we continue to choose our sin over God? We must forsake our sin and run to Christ.
 
+---
 
-[1] Psalm 51:2 and 7.
+[^1]: Psalm 51:2 and 7.
