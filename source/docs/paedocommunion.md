@@ -6,15 +6,12 @@ section: content
 ---
 # Paedocommunion: A Scriptural and Pastoral Presentation
 
-
 Submitted by Presbyter Stewart Jordan to Evangel Presbytery<br>
-
 May 1, 2002
 
-**Note:** In January of this year I reported to the Pastoral Committee that I had changed my view about paedocommunion[1] since coming into the Presbytery. As the 1988 General Assembly instructed, I was now making this exception to our standards known[2]. I also informed them that this change had come within the context of a study our whole session had conducted on this issue over the course of a year and a half, and that all of our elders had come to believe that this is what Scripture teaches. At the Presbytery meeting on January 28th, 2002, the decision about whether to allow the exception was tabled until the May meeting, and our session was directed to further study this issue and submit a paper giving a Scriptural defense of paedocommunion. This I now do writing for, and in consultation with, our other elders. Let me make clear that our session plans to continue to keep our practice in compliance with the BCO and are committed, as the motion of the Pastoral Committee would direct us, to handle this issue within in our body in a way that promotes the peace and purity of the church. The issue at hand, as we understand it, is simply whether my exception as a Teaching Elder will be allowed. Let me also make clear that there are much better presentations of this position and much more able defenders of it as well.[3] But I do hope that this will suffice for the immediate purpose and that it might contribute something helpful to this discussion.
+**Note:** In January of this year I reported to the Pastoral Committee that I had changed my view about paedocommunion[^1] since coming into the Presbytery. As the 1988 General Assembly instructed, I was now making this exception to our standards known[^2]. I also informed them that this change had come within the context of a study our whole session had conducted on this issue over the course of a year and a half, and that all of our elders had come to believe that this is what Scripture teaches. At the Presbytery meeting on January 28th, 2002, the decision about whether to allow the exception was tabled until the May meeting, and our session was directed to further study this issue and submit a paper giving a Scriptural defense of paedocommunion. This I now do writing for, and in consultation with, our other elders. Let me make clear that our session plans to continue to keep our practice in compliance with the BCO and are committed, as the motion of the Pastoral Committee would direct us, to handle this issue within in our body in a way that promotes the peace and purity of the church. The issue at hand, as we understand it, is simply whether my exception as a Teaching Elder will be allowed. Let me also make clear that there are much better presentations of this position and much more able defenders of it as well.[^3] But I do hope that this will suffice for the immediate purpose and that it might contribute something helpful to this discussion.
 
- ===
-
+ ---
 
 Hey, this issue is easy! It says right here in Acts 2:38, "Repent, and be baptized." Repent, and be baptized. There it is! What else can be said? An infant can't do that!
 
@@ -164,200 +161,144 @@ Isaiah 59:21 - "As for me, this is my covenant with them," says the Lord.  "My S
 
 - Isaiah 61:8-9 - Their descendants will be known among the nations and their offspring among the peoples. All who see them will acknowledge that they are a people the Lord has blessed.
 
-�         Jeremiah 32:38-39 � They will be my people, and I will be their God.� I will give them singleness of heart and action, so that they will always fear me for their own good and the good of� their children after them.
+- Jeremiah 32:38-39 - They will be my people, and I will be their God.� I will give them singleness of heart and action, so that they will always fear me for their own good and the good of� their children after them.
 
-�         Ezekiel 37:24-26 � And My servant David will be king over them . . . they shall live on the land . . . their sons, and their sons� sons . . . And I will make a covenant of peace with them . . .
+- Ezekiel 37:24-26 - And My servant David will be king over them . . . they shall live on the land . . . their sons, and their sons� sons . . . And I will make a covenant of peace with them . . .
 
-�         Joel 2:15-16 � Blow a trumpet in Zion, consecrate a fast, proclaim a solemn assembly, Gather the people, sanctify the congregation, assemble the elders, gather the children and the nursing infants.
+- Joel 2:15-16 - Blow a trumpet in Zion, consecrate a fast, proclaim a solemn assembly, Gather the people, sanctify the congregation, assemble the elders, gather the children and the nursing infants.
 
-�         Joel 2:18 � And afterward, I will pour out my Spirit on all people.� Your sons and daughters will prophesy . . .
+- Joel 2:18 - And afterward, I will pour out my Spirit on all people. Your sons and daughters will prophesy . . .
 
-�         Malachi 4:5-6 � I will send the prophet Elijah before that great and dreadful day of the Lord comes.� He will turn the hearts of the fathers to their children, and the hearts of the children to their fathers
-
+- Malachi 4:5-6 - I will send the prophet Elijah before that great and dreadful day of the Lord comes. He will turn the hearts of the fathers to their children, and the hearts of the children to their fathers
  
 
-At a certain point in seminary a group of us were struggling with baptism, with the choice looming ahead of us of either throwing our hat in with the Reformed Baptist or the Presbyterians.� Dr. Richard Pratt, feeling our pain, said, �Guys, you are making it so hard.� I hate to break this to you, but it really is not hard.� You just have to learn to come at the New Testament through the momentum of the Old Testament.� If you will just �test drive� this issue from that direction, you�ll find the thing is really easy!�� Well, that was the breakthrough I needed.� And I do believe he is right.� Look again at this list of Scriptures.� Consider the amazing repetition of these themes at every point of the history of God�s dealings and unfolding of His purposes.� Consider the importance of our children being seen in the covenant, and seeing themselves in the covenant, recipients of God�s amazing grace and those called to know, worship, and serve Him . . . from the womb.� Consider the importance of �fathers,� both as heads of homes and as one generation to the next, knowing their responsibilities of teaching and modeling covenant faith, worship, and obedience, as they grasp the call to be instruments of covenant blessing and not covenant cursing to their children.� Their children are in the covenant not because their children do something or believe something as individuals, but because they are theirs, thus saints in God�s holy nation, and thus God�s!� And their whole lives were to be a process of maturing into this calling which is theirs by grace, with timely warnings of covenant judgment upon those who would forsake these blessings.
+At a certain point in seminary a group of us were struggling with baptism, with the choice looming ahead of us of either throwing our hat in with the Reformed Baptist or the Presbyterians.�Dr. Richard Pratt, feeling our pain, said, "Guys, you are making it so hard." I hate to break this to you, but it really is not hard. You just have to learn to come at the New Testament through the momentum of the Old Testament. If you will just "test drive" this issue from that direction, you'll find the thing is really easy! Well, that was the breakthrough I needed.  And I do believe he is right.  Look again at this list of Scriptures.  Consider the amazing repetition of these themes at every point of the history of God's dealings and unfolding of His purposes. Consider the importance of our children being seen in the covenant, and seeing themselves in the covenant, recipients of God's amazing grace and those called to know, worship, and serve Him . . . from the womb. Consider the importance of "fathers," both as heads of homes and as one generation to the next, knowing their responsibilities of teaching and modeling covenant faith, worship, and obedience, as they grasp the call to be instruments of covenant blessing and not covenant cursing to their children. Their children are in the covenant not because their children do something or believe something as individuals, but because they are theirs, thus saints in God's holy nation, and thus God's! And their whole lives were to be a process of maturing into this calling which is theirs by grace, with timely warnings of covenant judgment upon those who would forsake these blessings.
 
-Of course, many Baptists might see all this and say, �Yea, this is impressive.� It was a big deal for Israel because the whole focus was on blood connection and household connection.� But doesn�t the New Testament change all that?� Doesn�t God now deal with people more as individuals, and not in connection with households?� Isn�t that part of the greater responsibility of the greater gifts and provision, the more internal focus of the Gospel?�
-
- 
+Of course, many Baptists might see all this and say, "Yea, this is impressive." It was a big deal for Israel because the whole focus was on blood connection and household connection. But doesn't the New Testament change all that? Doesn't God now deal with people more as individuals, and not in connection with households? Isn't that part of the greater responsibility of the greater gifts and provision, the more internal focus of the Gospel?
 
 In our reply, we might start by pointing out facts such as:
 
- 
+This whole issue of the centrality of the next generation begins at creation, is affirmed in Noah, and then is applied, not begun, with Abraham and Israel. It was never just "an ethnic thing."
+That the prophets applied these truths looking to the days of the Messiah and the restoration of Zion, repeatedly stressing the ongoing role of the children of God's people. They repeatedly emphasized not only that children would not be excluded, but that their inclusion was a major part of the blessing!
 
-This whole issue of the centrality of the next generation begins at creation, is affirmed in Noah, and then is applied, not begun, with Abraham and Israel.� It was never just �an ethnic thing.�
-That the prophets applied these truths looking to the days of the Messiah and the restoration of Zion, repeatedly stressing the ongoing role of the children of God�s people.� They repeatedly emphasized not only that children would not be excluded, but that their inclusion was a major part of the blessing!
 That the covenant signs were never strictly external � they were always outward signs of inward realities.
  
-
 But, of course, the main thing we would do is go to the New Testament to demonstrate that this economy and these priorities have stayed the same.
 
- 
+#### New Testament affirmation
 
- 
-
-New Testament affirmation
-
- 
 
 Here are some of the texts that many of us probably use to do that:
 
  
+- Mark 10:13-16 - Then they brought young children to Him, that He might touch them; but the disciples rebuked those who brought them.� But when Jesus saw it, He was greatly displeased and said to them, "Let the little children come to Me, and do not forbid them; for of such is the kingdom of God.�
 
-�         Mark 10:13-16 - Then they brought young children to Him, that He might touch them; but the disciples rebuked those who brought them.� But when Jesus saw it, He was greatly displeased and said to them, "Let the little children come to Me, and do not forbid them; for of such is the kingdom of God.�
+- Luke 1:17 - [The angel speaking about John, quoting Malachi 4:5-6] �And he will go on before the Lord, in the spirit and power of Elijah, to turn the hearts of the fathers to their children and the disobedient to the wisdom of the righteous � to make ready a people prepared for the Lord.�
 
-�         Luke 1:17 � [The angel speaking about John, quoting Malachi 4:5-6] �And he will go on before the Lord, in the spirit and power of Elijah, to turn the hearts of the fathers to their children and the disobedient to the wisdom of the righteous � to make ready a people prepared for the Lord.�
+- Luke 1:50, 54-55 - "His mercy extends to those who fear Him, from generation to generation . . . He has helped His servant Israel, remembering to be merciful to Abraham and His descendants forever, even as He said to our fathers."
 
-�         Luke 1:50, 54-55 � �His mercy extends to those who fear Him, from generation to generation . . . He has helped His servant Israel, remembering to be merciful to Abraham and His descendants forever, even as He said to our fathers.�
+- Luke 19:8-10 - Jesus said to \[Zacchaeus], "Today salvation has come to this house . . ."
 
-�         Luke 19:8-10 � Jesus said to [Zacchaeus], �Today salvation has come to this house . . .�
+- Acts 2:16-17 - "No, this is what was spoken by the prophet Joel:� �In the last days, God says, I will pour out my Spirit on all people.� �Your sons and daughters will prophesy . . .�
 
-�         Acts 2:16-17 � �No, this is what was spoken by the prophet Joel:� �In the last days, God says, I will pour out my Spirit on all people.� �Your sons and daughters will prophesy . . .�
+- Acts 2:39 - "The promise is for you and your children . . ."
 
-�         Acts 2:39 � �The promise is for you and your children . . .�
+- Acts 11:14 - "Send men to Joppa, and call for Simon whose surname is Peter, who will tell you words by which you and your household will be saved."
 
-�         Acts 11:14 � �Send men to Joppa, and call for Simon whose surname is Peter, who will tell you words by which you and your household will be saved.�
+- Acts 16:31 - "Believe in the Lord Jesus, and you will be saved - you and your household."
 
-�         Acts 16:31 � �Believe in the Lord Jesus, and you will be saved � you and your household.�
+- I Corinthians 7:14 -  Otherwise your children would be unclean, but as it is, they are holy.
 
-�         I Corinthians 7:14 � Otherwise your children would be unclean, but as it is, they are holy.
+- Ephesians 6:4 - Fathers, do not exasperate your children; instead, bring them up in the training and instruction of the Lord.
 
-�         Ephesians 6:4 � Fathers, do not exasperate your children; instead, bring them up in the training and instruction of the Lord.
-
-�         2 Timothy 3:15 - and that from childhood you have known the Holy Scriptures, which are able to make you wise for salvation through faith which is in Christ Jesus.
-
- 
-
-Consider Luke 1:17:� The context is the gospel (1:19), the good news or glad tidings that was announced in Isaiah (40:9, 52:7, 61:1) and described in Isaiah and in many other places.[4]� This anticipation of glad tidings spoke of a new covenant, a new day, in which God would, among other things, come to visit and restore Zion, to raise up His Messiah-King, to forgive Israel and give them repentance, to pour out the Holy Spirit upon them and their descendants, to exalt His Name among the nations, and to fulfill all His promises.� God would be faithful to His covenant!� Interestingly, God chooses to break the silence of the years since the close of the Old Testament by putting in Gabriel�s mouth the last words He spoke � that at the heart of these glad tidings would be the turning of the hearts of fathers to the hearts of their children.� This is not sentimental, but is summing up and capturing the whole Old Testament of effective transmission of this identity and calling down through the generations, something that God has revealed as central in His purpose.� And God makes clear in Luke that this is at the heart of the gospel and the kingdom He is bringing about through His Son (Luke 1:32-35).� In other words, the covenant connection, unity between generations, and vibrant transmission of truth and commitment from one generation to the next are all at the center of the gospel!� At the heart of the kingdom![5]� And vital to the outworking of God�s promises to Israel, and through them to the world, that are �Yes� in Christ Jesus.
+- 2 Timothy 3:15 - and that from childhood you have known the Holy Scriptures, which are able to make you wise for salvation through faith which is in Christ Jesus.
 
  
+Consider Luke 1:17: The context is the gospel (1:19), the good news or glad tidings that was announced in Isaiah (40:9, 52:7, 61:1) and described in Isaiah and in many other places.[^4] This anticipation of glad tidings spoke of a new covenant, a new day, in which God would, among other things, come to visit and restore Zion, to raise up His Messiah-King, to forgive Israel and give them repentance, to pour out the Holy Spirit upon them and their descendants, to exalt His Name among the nations, and to fulfill all His promises. God would be faithful to His covenant!� Interestingly, God chooses to break the silence of the years since the close of the Old Testament by putting in Gabriel's mouth the last words He spoke -- that at the heart of these glad tidings would be the turning of the hearts of fathers to the hearts of their children. This is not sentimental, but is summing up and capturing the whole Old Testament of effective transmission of this identity and calling down through the generations, something that God has revealed as central in His purpose.� And God makes clear in Luke that this is at the heart of the gospel and the kingdom He is bringing about through His Son (Luke 1:32-35). In other words, the covenant connection, unity between generations, and vibrant transmission of truth and commitment from one generation to the next are all at the center of the gospel! At the heart of the kingdom![^5] And vital to the outworking of God's promises to Israel, and through them to the world, that are "Yes" in Christ Jesus.
 
-Now we might, at this point, suggest this to the one defending the Baptist position:� �I�ll line up the Scriptures I just covered in a column on the left side of a page.� And then in the column on the right you list every Scripture that indicates a changing of these covenantal connections and identity in thought, teaching, practice, and in sacramental life.���� To help beef up the right side, you could even encourage him to add Scriptures that give us guidance and information about a child who was raised in a Christian home later coming for baptism after a profession of faith.� What will they end up with in that right column?� Mainly �Repent and be baptized� and a few parallel passages.
+Now we might, at this point, suggest this to the one defending the Baptist position: I'll line up the Scriptures I just covered in a column on the left side of a page. And then in the column on the right you list every Scripture that indicates a changing of these covenantal connections and identity in thought, teaching, practice, and in sacramental life. To help beef up the right side, you could even encourage him to add Scriptures that give us guidance and information about a child who was raised in a Christian home later coming for baptism after a profession of faith. What will they end up with in that right column? Mainly "Repent and be baptized" and a few parallel passages.
 
- 
+Well, what about paedocommunion? The Scripture and themes we have considered so far not only show the importance of covenant children having a covenant identity and being included in the rituals, practices, and celebrations that affirm that identity, but they also show the specific ways in which covenant children were included in covenant feasts and meals, including Passover.[6] Please look back at the verses in the OT and note the ones underlined -- these all show the children's inclusion in these covenant meals. And the New Testament shows us that the Lord's Supper is the fulfillment of all these covenant feasts, including Passover.[^7] [^8] As the Confession reminds us, "The sacraments of the Old Testament, in regard of the spiritual things thereby signified and exhibited, were, for substance, the same with those of the New" (XXVII, v).
 
-Well, what about paedocommunion?� The Scripture and themes we have considered so far not only show the importance of covenant children having a covenant identity and being included in the rituals, practices, and celebrations that affirm that identity, but they also show the specific ways in which covenant children were included in covenant feasts and meals, including Passover.[6]�� Please look back at the verses in the OT and note the ones underlined � these all show the children�s inclusion in these covenant meals.� And the New Testament shows us that the Lord�s Supper is the fulfillment of all these covenant feasts, including Passover.[7] [8] As the Confession reminds us �The sacraments of the Old Testament, in regard of the spiritual things thereby signified and exhibited, were, for substance, the same with those of the New� (XXVII, v).
+So if we followed the same column exercise here as with the baptism issue, what verses would we end up with in the right column? What passages, by teaching or example, indicate that these covenant blessings and life are now to be withheld from covenant children? What passages would indicate that covenant children are to not be included in this expression of covenant fulfillment, life, grace, and sustenance until they are of such an age that they, as an individual, can articulate their understanding and commitment, i.e, give a "profession of faith"? To help strengthen the right side, we could also add verses that would give us guidance and information about the proper age for a child brought up in a Christian home to be examined and included at the Lord's Table. Or verses or passages that illustrate the early church practicing some form of an "age of discretion" that would help us in our discussions about the proper time and way to bring these covenant children to the Table. What verses or Scriptural examples do you refer to when discussing the proper age for covenant children to make a profession of faith so they can become communing members of the church? What verses do we end up with in the right column? From what I have seen, basically a few words and phrases from I Corinthians 11.
 
- 
-
-So if we followed the same column exercise here as with the baptism issue, what verses would we end up with in the right column?� What passages, by teaching or example, indicate that these covenant blessings and life are now to be withheld from covenant children?� What passages would indicate that covenant children are to not be included in this expression of covenant fulfillment, life, grace, and sustenance until they are of such an age that they, as an individual, can articulate their understanding and commitment, i.e, give a �profession of faith�?�� To help strengthen the right side, we could also add verses that would give us guidance and information about the proper age for a child brought up in a Christian home to be examined and included at the Lord�s Table.�� Or verses or passages that illustrate the early church practicing some form of an �age of discretion� that would help us in our discussions about the proper time and way to bring these covenant children to the Table.� What verses or Scriptural examples do you refer to when discussing the proper age for covenant children to make a profession of faith so they can become communing members of the church?�� What verses do we end up with in the right column?� From what I have seen, basically a few words and phrases from I Corinthians 11.
-
- 
-
-So as we continue to pursue Scripture interpreting Scripture, we will first come back to the primary passages that the anti-paedobaptist would use, and then to the ones the anti-paedocommunionist might use to show that these covenant realities and understandings changed in the New Testament.� And would it not be fair to say that these passages are buckets carrying a lot of water, and that there ought not be any holes in them?
+So as we continue to pursue Scripture interpreting Scripture, we will first come back to the primary passages that the anti-paedobaptist would use, and then to the ones the anti-paedocommunionist might use to show that these covenant realities and understandings changed in the New Testament. And would it not be fair to say that these passages are buckets carrying a lot of water, and that there ought not be any holes in them?
 
  
 
  
-
-Facing the Acts 2:38 challenge head-on
-
- 
+#### Facing the Acts 2:38 challenge head-on
 
 I will consider four things we might want to say to a paedobaptist from this passage:
 
+
+1. Specific adults are being addressed in a specific situation -- These are adult Jews gathered at the transition from old covenant to new covenant. So, without additional information, we should be cautious in using the words "Repent, and be baptized" to say that the children of these adults should not be baptized.
+
+2. This passage and its context emphasizes continuity and covenant unity -- First, note that the audience (the "them" of 2:38) is Jews who know the promises of the Old Testament and yearn to see their fulfillment. We must work to hear these words as a Jew might hear them! Just consider these points of continuity for Peter and for these listeners:
+
+"Repent" - This is the long-awaited repentance associated with the day God would visit Zion and bring in His kingdom.[^9] This, of course, was the background for the repentance called for by John (Matt 3:2) and Jesus (Matt 4:17) and spoken about by Peter in Acts 5:31 - Him God has exalted to His right hand as Prince and Savior, to give repentance to Israel.
+
+"and let every one of you be baptized" -  We start by noting that this should be something comprehensible to a first century Jew who knew the OT Scriptures. What might he relate baptism to in the OT?[^10] They would think of such prophesied "baptisms" as those described in Ezek 36:25, Isa 44:3, Isa 52:15 - baptisms from above (pictured by pouring or sprinkling and built on all the earlier OT ceremonial baptisms -- see Heb 10:10-21) that would be the sign of God's gracious cleansing and renewal for Israel and through them for the nations.
+
+"in the name of Jesus Christ" -  Israel's covenant relationship with God is summed up in being those whom God has placed His name upon -- see Numbers 6:24-27
+
+"for the remission of sins" - This was always at the heart of Israel being able to dwell with their covenant God and have Him dwell with them. It was also a hoped for and anticipated gift of the "last days" of covenant fulfillment -- see Isa. 43:25, Jer 31:34, Micah 7:19-20, Acts 5:31, 10:43, Eph 1:7, Heb 8:12.
+
+"and you shall receive the gift of the Holy Spirit" -  see not only Joel 2:28-29 that Peter applies in Acts 2:16ff, but also many other OT prophecies such as Isa 44:3-4, Ezek 36:27-28. Also note the explicit connection between water baptism and the baptism of the Holy Spirit (Matt 3:11, John 1:33), a baptism always described in Scripture in terms of sprinkling or pouring.[^11]
+
+"For the promise" - the promise of covenant fulfillment for Israel spoken in Joel 2:28, 29 -- a promise that gave expression to all the promises to Israel beginning with the promises to Abraham.
+
+"and to all who are afar off" -  The OT always envisioned that the salvation God would bring in the "last days" would be one that reached far and wide, reflecting God's Lordship over creation and His promises to Abraham -- see Gen 12:2-3, Eph 2:11-13.
+ 
+Even though there were mysteries being unveiled for these Jews, including Peter and the apostles, the basic contours and meaning of all this was the application of OT truth, patterns, and expectations. Thus, this would weigh in favor of the continuation of children being considered in the covenant and receiving the covenant sign unless Scripture indicated otherwise.
+ 
+3. There are specifics in the context of "Repent and be baptized" that point to the inclusion of children in this covenant sacrament -- See:
+
+"This promise is for you and your children" (2:39) - this does not specifically say that the children receive baptism, but it specifically ties these "last days," kingdom blessings to the children.
+
+"Your sons and daughters" (2:17) - this brings into view the whole OT stress upon the inclusion of covenant children in the blessings of God and in the specific promises of the days of covenant fulfillment.
  
 
-1.� Specific adults are being addressed in a specific situation � These are adult Jews gathered at the transition from old covenant to new covenant.� So, without additional information, we should be cautious in using the words �Repent, and be baptized� to say that the children of these adults should not be baptized.
+4. When properly understood, this passage should be seen as an argument for paedobaptism rather than one against it. This is even more clear when you add in other biblical texts and themes.[^12] In sorting out baptism with folks who are struggling through this issue, I have often found that they don't turn the corner in their minds and hearts on this issue until they can actually see this: that the Acts 2:38 challenge is not only one that can be answered, but it actually should be (graciously and with gentleness, of course) turned on its head. It is a great text for grasping and affirming paedobaptism.
+
+
+#### Facing the I Corinthians 11 challenge head-on
+
+Finally! On the question of paedocommunion, we look in our right hand column and see some words and phrases from I Corinthians 11. As one who embraces paedocommunion, what can be said about this? Is this enough to turn back the momentum of all of this emphasis in the OT about our children's inclusion in covenant life? I'll follow the four points I developed above in the Acts 2:38 discussion in developing my argument for why it is most definitely not (you might want to open your Bible to I Corinthians 11 for reference):
 
  
+1. Specific adults are being addressed in a specific situation -- Paul is addressing adult Corinthian believers who are engaging in a heinous violation of covenant unity -- the "haves" are celebrating their blessing through sumptious meals at the church assembly while the "have-nots" of the body have nothing but the bread and wine.[^13] Note that Paul brackets the passage with this theme (17-22, then 33-34). It is this specific context that must determine how we interpret phrases like:
 
-2.� This passage and its context emphasizes continuity and covenant unity � First, note that the audience (the �them� of 2:38) is Jews who know the promises of the Old Testament and yearn to see their fulfillment.�� We must work to hear these words as a Jew might hear them!� Just consider these points of continuity for Peter and for these listeners:
+"unworthy manner" -- vs 27 --  this is the manner that Paul is specifically condemning " a manner of partaking with a blatant disregard of your brother and his needs." Davies writes that "Conscious and active disobedience is being contemplated, by Paul, as the condition which would bar one from partaking unworthily"[^14]
+
+"examine himself" -- vs 28 -- in regards to the violations being discussed here. "When Paul calls the Corinthians (especially the well-to-do among them) to 'examine themselves' he is commanding them to cease from their contemptuous behavior of humiliating the poor among them."[^15]  Fee writes, "It seems certain that their version of the meal is less than satisfactory right at this point, probably not so much because they were not "thinking on Christ" properly, or failing to be in right communion with him, but because by their abuse of one another they were negating the very point of that death -- to create a new people for his name . . ."[^16]   Gallant writes, "The sin, in context, is not lack of self-examination. The sin is schism at the table, which Paul hopes to counter by calling for self-examination. There is a world of difference between these two views of the passage."[^17]
+
+"discern the body" -- not the body of Christ pictured in the elements, but the church! In the study notes of the New Geneva Study Bible, we read "The warning in vs 29 about "discerning the Lord's body" almost surely refers to this failure to maintain the unity of the church as the body of Christ . . . Because some of the believers in Corinth were celebrating the Supper in a way that destroyed the unity it represents, God had brought judgment upon the community."[^18] [^19]   Fee writes "The Corinthians are missing the meaning of the "body" given in death; but Paul's present concern is with the further sense, the church as that body." (page 564)
+ 
+And just like with Acts 2:38, we must recognize that Paul is giving specific instructions to specific adults in a specific situation. Thus we should be, at the very least, cautious about trying to say that Paul is barring children.[^20] [^21]
 
  
-
-�Repent� � This is the long-awaited repentance associated with the day God would visit Zion and bring in His kingdom.[9] This, of course, was the background for the repentance called for by John (Matt 3:2) and Jesus (Matt 4:17) and spoken about by Peter in Acts 5:31 � Him God has exalted to His right hand as Prince and Savior, to give repentance to Israel.
-�and let every one of you be baptized� � We start by noting that this should be something comprehensible to a first century Jew who knew the OT Scriptures.� What might he relate baptism to in the OT?[10]� They would think of such prophesied �baptisms� as those described in Ezek 36:25, Isa 44:3, Isa 52:15 � baptisms from above (pictured by pouring or sprinkling and built on all the earlier OT ceremonial baptisms � see Heb 10:10-21) that would be the sign of God�s gracious cleansing and renewal for Israel and through them for the nations.
-�in the name of Jesus Christ� � Israel�s covenant relationship with God is summed up in being those whom God has placed His name upon � see Numbers 6:24-27
-�for the remission of sins� � This was always at the heart of Israel being able to dwell with their covenant God and have Him dwell with them.� It was also a hoped for and anticipated gift of the �last days� of covenant fulfillment � see Isa. 43:25, Jer 31:34, Micah 7:19-20, Acts 5:31, 10:43, Eph 1:7, Heb 8:12.
-�and you shall receive the gift of the Holy Spirit� � see not only Joel 2:28-29 that Peter applies in Acts 2:16ff, but also many other OT prophecies such as Isa 44:3-4, Ezek 36:27-28.� Also note the explicit connection between water baptism and the baptism of the Holy Spirit (Matt 3:11, John 1:33), a baptism always described in Scripture in terms of sprinkling or pouring.[11]
-�For the promise� � the promise of covenant fulfillment for Israel spoken in Joel 2:28, 29 � a promise that gave expression to all the promises to Israel beginning with the promises to Abraham.
-�and to all who are afar off� � The OT always envisioned that the salvation God would bring in the �last days� would be one that reached far and wide, reflecting God�s Lordship over creation and His promises to Abraham � see Gen 12:2-3, Eph 2:11-13.
- 
-
-Even though there were mysteries being unveiled for these Jews, including Peter and the apostles, the basic contours and meaning of all this was the application of OT truth, patterns, and expectations.� Thus, this would weigh in favor of the continuation of children being considered in the covenant and receiving the covenant sign unless Scripture indicated otherwise.
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-3.� There are specifics in the context of �Repent and be baptized� that point to the inclusion of children in this covenant sacrament � See:
-
- 
-
-�This promise is for you and your children� (2:39) � this does not specifically say that the children receive baptism, but it specifically ties these �last days,� kingdom blessings to the children.
-�Your sons and daughters� (2:17) � this brings into view the whole OT stress upon the inclusion of covenant children in the blessings of God and in the specific promises of the days of covenant fulfillment.��
- 
-
-4.� When properly understood, this passage should be seen as an argument for paedobaptism rather than one against it.� This is even more clear when you add in other biblical texts and themes.[12]� In sorting out baptism with folks who are struggling through this issue, I have often found that they don�t turn the corner in their minds and hearts on this issue until they can actually see this:� that the Acts 2:38 challenge is not only one that can be answered, but it actually should be (graciously and with gentleness, of course) turned on its head.� It is a great text for grasping and affirming paedobaptism.
-
- 
-
- 
-
-Facing the I Corinthians 11 challenge head-on
-
- 
-
-Finally!� On the question of paedocommunion, we look in our right hand column and see some words and phrases from I Corinthians 11.� As one who embraces paedocommunion, what can be said about this?�� Is this enough to turn back the momentum of all of this emphasis in the OT about our children�s inclusion in covenant life?� I�ll follow the four points I developed above in the Acts 2:38 discussion in developing my argument for why it is most definitely not (you might want to open your Bible to I Corinthians 11 for reference):
-
- 
-
-1.� Specific adults are being addressed in a specific situation � Paul is addressing adult Corinthian believers who are engaging in a heinous violation of covenant unity � the �haves� are celebrating their blessing through sumptious meals at the church assembly while the �have-nots� of the body have nothing but the bread and wine.[13]� Note that Paul brackets the passage with this theme (17-22, then 33-34).� It is this specific context that must determine how we interpret phrases like:
-
- 
-
-�unworthy manner� � vs 27 � this is the manner that Paul is specifically condemning � a manner of partaking with a blatant disregard of your brother and his needs.� Davies writes that �Conscious and active disobedience is being contemplated, by Paul, as the condition which would bar one from partaking unworthily�[14]
-�examine himself� � vs 28 � in regards to the violations being discussed here.� �When Paul calls the Corinthians (especially the well-to-do among them) to �examine themselves� he is commanding them to cease from their contemptuous behavior of humiliating the poor among them.�[15]� Fee writes, �It seems certain that their version of the meal is less than satisfactory right at this point, probably not so much because they were not �thinking on Christ� properly, or failing to be in right communion with him, but because by their abuse of one another they were negating the very point of that death � to create a new people for his name . . .�[16]� Gallant writes, �The sin, in context, is not lack of self-examination.� The sin is schism at the table, which Paul hopes to counter by calling for self-examination.� There is a world of difference between these two views of the passage.�[17]
-�discern the body� � not the body of Christ pictured in the elements, but the church!� In the study notes of the New Geneva Study Bible, we read �The warning in vs 29 about �discerning the Lord�s body� almost surely refers to this failure to maintain the unity of the church as the body of Christ . . . Because some of the believers in Corinth were celebrating the Supper in a way that destroyed the unity it represents, God had brought judgment upon the community.�[18] [19]� Fee writes �The Corinthians are missing the meaning of the �body� given in death; but Paul�s present concern is with the further sense, the church as that body.� (page 564)
- 
-
-And just like with Acts 2:38, we must recognize that� Paul is giving specific instructions to specific adults in a specific situation.� Thus we should be, at the very least, cautious about trying to say that Paul is barring children.[20] [21]
-
- 
-
-2.� This passage and its context emphasizes continuity and covenant unity -- Consider:
+2. This passage and its context emphasizes continuity and covenant unity -- Consider:
 
 This was a "coming together" (11:17,20) which is the language of the OT covenant assembly.[^22] Many of the OT verses in the first part of this paper show the importance of the presence and participation of children in such assemblies.
-�Remembrance of me� connects this meal with the other �memorial� meals of the OT, especially the Passover.[^23]� This is not an individualistic remembering, but a corporate remembering of the deliverance God has brought to His people.� �It is the sacrament that leads to remembrance, rather than the reverse.�[24]And of course all of these acts of deliverance have now been summed up in the remembrance of �Me� � Jesus our Lord.� Again, note that these OT covenant meals not only included children, but children were vital as they were especially the ones who needed to have these memories built into their lives to shape their identity and help them pursue faithfulness in response to God�s saving grace and calling.[25]� Gallant writes, �Hence, the forward look of the Supper testifies that it is a memorial, instituted to retain Christ�s sacrificial work in the corporate memory of the covenant people, even as Passover retained the memory among God�s people of the events of the passing by of the death angel, and the deliverance of the exodus as a whole.[^26]
-�new covenant in my blood� � Of course, this is a direct allusion to Jer 31:31, which also brings into view Exodus 24 and many other covenant ceremonies and scenes.[^27]� Note that the whole congregation, including the children, were sprinkled with the blood of the covenant.[^28]
-This whole passage recalls many OT passages in which God condemned Israel for covenant feasts and worship that were joined with actions that denied their unity as a covenant people.[^29]� Note that children were not denied access to those meals because of these dangers.[^30]� Why would we think they are now?
+
+"Remembrance of me" connects this meal with the other �memorial� meals of the OT, especially the Passover.[^23] This is not an individualistic remembering, but a corporate remembering of the deliverance God has brought to His people. "It is the sacrament that leads to remembrance, rather than the reverse."[^24]  And of course all of these acts of deliverance have now been summed up in the remembrance of "Me" -- Jesus our Lord. Again, note that these OT covenant meals not only included children, but children were vital as they were especially the ones who needed to have these memories built into their lives to shape their identity and help them pursue faithfulness in response to God�s saving grace and calling.[^25] Gallant writes, "Hence, the forward look of the Supper testifies that it is a memorial, instituted to retain Christ's sacrificial work in the corporate memory of the covenant people, even as Passover retained the memory among God's people of the events of the passing by of the death angel, and the deliverance of the exodus as a whole."[^26]
+
+"new covenant in my blood" -- Of course, this is a direct allusion to Jer 31:31, which also brings into view Exodus 24 and many other covenant ceremonies and scenes.[^27]� Note that the whole congregation, including the children, were sprinkled with the blood of the covenant.[^28]
+
+This whole passage recalls many OT passages in which God condemned Israel for covenant feasts and worship that were joined with actions that denied their unity as a covenant people.[^29] Note that children were not denied access to those meals because of these dangers.[^30] Why would we think they are now?
  
+So just as with Acts 2:38, we see that the basic contours and meaning of this passage and these instructions are found in OT truth, patterns, and expectations (as is the case with every word in the NT). Thus, the clear OT pattern of inclusion of covenant children should be expected unless there is explicit instruction to the contrary.
 
-So just as with Acts 2:38, we see that the basic contours and meaning of this passage and these instructions are found in OT truth, patterns, and expectations (as is the case with every word in the NT).� Thus, the clear OT pattern of inclusion of covenant children should be expected unless there is explicit instruction to the contrary.
+3. There are specifics in the context of these instructions that point to the inclusion of children in this covenant sacrament 
 
+- I Corinthians 10:1-4 - These verses form part of the direct flow of sacramental issues of baptism (see 12:13) and the Lord's Table (here in 11:17-34, also in 10:16-17) that Paul is addressing. They describe these shadows of the NT sacraments of baptism and the Lord^s Table in Israel's life in the wilderness.[^31] Who were included in those shadows? Obviously, the children -- in both![^32] Now, like all covenantal blessings, these signs brought judgment to those who did not press on in faith and obedience,[^33] as they did in the church in Corinth (11:29-32)[^34] But does that mean the children must not participate? Obviously not. "The lesson which Paul derives from Israel's experience, therefore, is that covenant disobedience and not covenant immaturity merits the condemnation of the Lord."[^35] Let me add that I don't see these verses as a "proof-text" for paedocommunion, but they certainly give it weighty support.
 
+- I Corinthians 7:14 - Paul teaches that children who have at least one believing parent are covenantally "holy." We often refer to this verse in our discussions with the anti-paedobaptist. "This, as we often point out, confirms the whole OT momentum of the inclusion of our children." And it makes it hard to believe that a few chapters later Paul would be teaching that we are to keep them from the Lord's Table, which would effectively say they are unholy, or of the world.
+
+4. When properly understood, this passage should be seen as an argument for paedocommunion rather than one against it. This is even more clear when you add in other biblical texts and themes.[^36]
  
-
-3.� There are specifics in the context of these instructions that point to the inclusion of children in this covenant sacrament ��
-
- 
-
-�         I Corinthians 10:1-4 - These verses form part of the direct flow of sacramental issues of baptism (see 12:13) and the Lord�s Table (here in 11:17-34, also in 10:16-17) that Paul is addressing.� They describe these shadows of the NT sacraments of baptism and the Lord�s Table in Israel�s life in the wilderness.[31]� Who were included in those shadows?� Obviously, the children � in both![32]� Now, like all covenantal blessings, these signs brought judgment to those who did not press on in faith and obedience,[33] as they did in the church in Corinth (11:29-32)[34]� But does that mean the children must not participate?� Obviously not. ���The lesson which Paul derives from Israel�s experience, therefore, is that covenant disobedience and not covenant immaturity merits the condemnation of the Lord.�[35]� Let me add that I don�t see these verses as a �proof-text� for paedocommunion, but they certainly give it weighty support.
-
-�         I Corinthians 7:14 � Paul teaches that children who have at least one believing parent are covenantally �holy.�� We often refer to this verse in our discussions with the anti-paedobaptist. �This, as we often point out, confirms the whole OT momentum of the inclusion of our children.� And it makes it hard to believe that a few chapters later Paul would be teaching that we are to keep them from the Lord�s Table, which would effectively say they are unholy, or of the world.
-
- 
-
-4.� When properly understood, this passage should be seen as an argument for paedocommunion rather than one against it.� This is even more clear when you add in other biblical texts and themes.[^36]
-
- 
-Paul�s passion in this passage is to maintain, in the face of callous actions and attitudes, the unity of the body in the covenant meal that points to that unity established in God�s sovereign calling and grace.� By one Spirit we have been baptized into one body (I Cor 12:13; 10:17).� When we add together the fact that children are not the ones involved in this heinous sin being addressed, along with all the other evidence described above, I believe we should embrace this passage as one that not only doesn�t argue against paedocommunion, but actually helps us understand how important it is to practice!�� Are our children not in the covenant?� Have they not been baptized with the one baptism (not one baptism for adults that gives the right to be nourished in Christ, and another baptism that only gives the hope of one day being able to say and do the right works so that you can now start to be nourished in Christ)?[^37] Are they not our children � the children that have been claimed by God and must now be sustained in His grace through Christ?� Is it not vital that they remember that they are saved by grace and are to be nourished in that grace from the earliest days of their memory?� Are we not improperly discerning the body if we leave them �out� until they can do some additional thing?� Remember that the whole problem that Paul so directly and forcefully attacks is the creation of distinctions that would make baptized believers feel that they are some sort of halfway members in the body.� �It would be ironic indeed, and sad, if we were to use a passage designed by the Holy Spirit to overcome erroneous �distinctions� between groups in the church to establish (or perpetuate) a practice that excludes a large "class" of church members -- namely, our covenant children -- from the Lord's Supper.[38]
-
- 
+Paul's passion in this passage is to maintain, in the face of callous actions and attitudes, the unity of the body in the covenant meal that points to that unity established in God's sovereign calling and grace. By one Spirit we have been baptized into one body (I Cor 12:13; 10:17). When we add together the fact that children are not the ones involved in this heinous sin being addressed, along with all the other evidence described above, I believe we should embrace this passage as one that not only doesn't argue against paedocommunion, but actually helps us understand how important it is to practice! Are our children not in the covenant? Have they not been baptized with the one baptism (not one baptism for adults that gives the right to be nourished in Christ, and another baptism that only gives the hope of one day being able to say and do the right works so that you can now start to be nourished in Christ)?[^37] Are they not our children -- the children that have been claimed by God and must now be sustained in His grace through Christ? Is it not vital that they remember that they are saved by grace and are to be nourished in that grace from the earliest days of their memory? Are we not improperly discerning the body if we leave them "out" until they can do some additional thing? Remember that the whole problem that Paul so directly and forcefully attacks is the creation of distinctions that would make baptized believers feel that they are some sort of halfway members in the body. It would be ironic indeed, and sad, if we were to use a passage designed by the Holy Spirit to overcome erroneous "distinctions" between groups in the church to establish (or perpetuate) a practice that excludes a large "class" of church members -- namely, our covenant children -- from the Lord's Supper.[^38]
 
 As we often say in our discussions with paedobaptist, �we must let Scripture interpret Scripture.�� We must come to I Corinthians 11 with the full weight of Scripture in mind.� We must come with the glorious and weighty scriptural emphasis of the place our children have in the covenant and the need to nurture them in this great salvation.�� We must come with great awareness of the themes of unity, of the one baptism, of the covenant inclusion of our children, and of the OT inclusion of covenant children in the OT shadow sacraments . . . all that has been taught in surrounding verses!� And, as we stress in our arguments for infant baptism, we must come with a thoughtful awareness of how a first-century Jew would consider these issues.� Can you imagine the confusion of a first-century Jew when he found out that his children, who the year before were included in Passover and the other feasts, were now to be kept out of this new covenant feast until they could prove something on their own?� Would that have added up to the long-awaited good news?� As we approach and interpret this passage with these things in mind,� I believe we should conclude that this passage is well-suited not to keep children from the Lord's Table, but to welcome them.
 
