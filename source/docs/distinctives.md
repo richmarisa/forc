@@ -31,14 +31,14 @@ section: content
 
     b. An Optimistic Eschatology:
 
-        1. At His ascension to the throne on high, Jesus Christ received dominion, glory and a kingdom that all peoples, nations and languages should serve Him. As King of kings and Lord of lords, He is now seated at God's right hand, far above all principality and power and might and dominion, and every name that is named. -Daniel 7:13-14; Ephesians 1:15-23; Revelation 19:16
+        - 1. At His ascension to the throne on high, Jesus Christ received dominion, glory and a kingdom that all peoples, nations and languages should serve Him. As King of kings and Lord of lords, He is now seated at God's right hand, far above all principality and power and might and dominion, and every name that is named. -Daniel 7:13-14; Ephesians 1:15-23; Revelation 19:16
 
-        2. By God's grace, believers have been delivered from the domain of darkness and translated into Christ's kingdom, which, by the power of the Holy Spirit in the proclamation of the Gospel, will extend throughout the whole earth. During this age God continues to pour out His Spirit upon all flesh, as Christ puts all enemies under His feet. -Joel 2:28-29; Matthew 13:31-33; Acts 1:8; Romans 3:21-26; 1 Corinthians 15:25; Colossians 1:13-14
+        - 2. By God's grace, believers have been delivered from the domain of darkness and translated into Christ's kingdom, which, by the power of the Holy Spirit in the proclamation of the Gospel, will extend throughout the whole earth. During this age God continues to pour out His Spirit upon all flesh, as Christ puts all enemies under His feet. -Joel 2:28-29; Matthew 13:31-33; Acts 1:8; Romans 3:21-26; 1 Corinthians 15:25; Colossians 1:13-14
 
-        3. At His final advent, the Lord will deliver the kingdom to His Father, having destroyed all His enemies. The dead in Christ will be raised incorruptible, and we shall all be changed into His likeness. -1 Corinthians 15:22-28, 50-58; 1 John 3:1-3
+        - 3. At His final advent, the Lord will deliver the kingdom to His Father, having destroyed all His enemies. The dead in Christ will be raised incorruptible, and we shall all be changed into His likeness. -1 Corinthians 15:22-28, 50-58; 1 John 3:1-3
 
  
-        4. Meanwhile, the Church Militant is divinely commissioned with the task of "occupying till He comes," carrying the Gospel of the kingdom to the ends of the earth and discipling the nations until the earth is filled with the knowledge of the Lord as the waters cover the sea. - Isaiah 11:9; Matthew 28:18-20; Luke 19:13; Acts 1:8
+        - 4. Meanwhile, the Church Militant is divinely commissioned with the task of "occupying till He comes," carrying the Gospel of the kingdom to the ends of the earth and discipling the nations until the earth is filled with the knowledge of the Lord as the waters cover the sea. - Isaiah 11:9; Matthew 28:18-20; Luke 19:13; Acts 1:8
 
 ### B. POSITIONS:
 
