@@ -74,9 +74,9 @@ In addition to those positions presented in the prior section the following are 
 
 5. The practice of Paedo-Communion:
 
-    - a. Like unto the sacrament of Holy Baptism which God graciously offers to all believers and their children, the Lord's Supper, or Holy Communion, is the covenantal meal of the visible Church of Jesus Christ, in which the people of God are ever more incorporated into Christ's body, participating together in the power of endless life. John 6:47-58; Acts 2:38-39; 1 Corinthians 10:14-22; HC 75, 76; WCF XXIX:1; WLC 168
+    - <p class="ml-8">a. Like unto the sacrament of Holy Baptism which God graciously offers to all believers and their children, the Lord's Supper, or Holy Communion, is the covenantal meal of the visible Church of Jesus Christ, in which the people of God are ever more incorporated into Christ's body, participating together in the power of endless life. John 6:47-58; Acts 2:38-39; 1 Corinthians 10:14-22; HC 75, 76; WCF XXIX:1; WLC 168</p>
 
-    - b. As the whole people of God under the Old Covenant partook of the covenantal feasts, so the whole people of God under the New Covenant should partake of the covenantal feast of the Lord's Supper. - Exodus 12:43-48; Deuteronomy 16:1-17; Matthew 26:26-27; Acts 2:38-42
+    - <p class="ml-8">b. As the whole people of God under the Old Covenant partook of the covenantal feasts, so the whole people of God under the New Covenant should partake of the covenantal feast of the Lord's Supper. - Exodus 12:43-48; Deuteronomy 16:1-17; Matthew 26:26-27; Acts 2:38-42</p>
 
     - c. As the whole people of God under the Old Covenant partook of Christ, eating the same spiritual food from heaven and drinking the same spiritual drink from the Rock, so the whole people of God under the New Covenant partake of Christ, eating and drinking the spiritual food of the Sacrament of His Body and Blood. - 1 Corinthians 10:1-4, 16-17; HC 75, 79; WLC 170
 
