@@ -4,14 +4,14 @@ return [
     'FORC documents' => [
         'url' => '/',
         'children' => [
-            'Purpose Statment' => 'docs/purpose-statement',
+            'Purpose Statement' => 'docs/purpose-statement',
             'Our Distinctives' => 'docs/distinctives',
             'Book of Order' => 'docs/book-of-order',
             'List of Churches' => 'docs/list-of-churches',
             'Contact Us' => 'docs/contact-us',
         ],
     ],
-    'Position Papers' => [
+    'Papers' => [
         'url' => '',
         'children' => [
             'Hosea 14: 1-9' => 'docs/hosea14',

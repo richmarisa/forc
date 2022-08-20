@@ -50,7 +50,7 @@ In addition to those positions presented in the prior section the following are 
 
     - b. Jesus Christ has conquered death and hell, has given Himself for His people, and sits now at the right hand of the Father as King over all creation. -Isaiah 9:6-7; Matthew 1:21, 28:18-20; Acts 2:32-36; Galatians 1:3-5; 2 Timothy 1:10; Hebrews 1:8-9; Revelation 1:18; Westminster Confession of Faith (WCF) VIII:4; Heidelberg Catechism (HC) 31, 46
 
-    - c. This Kingship includes both heaven and earth.� As the last Adam, Jesus is fulfilling the mandate to bring all of life under God's dominion. -Genesis 1:28; Psalm 2:7-12, 24:1; Isaiah 65:17-25; Matthew 6:9-10, 26:64; 1 Corinthians 15:22-28, 45-49; Colossians 1:16; Revelation 11:15-18; Westminster Larger Catechism (WLC) 45, 54, 191
+    - c. This Kingship includes both heaven and earth. As the last Adam, Jesus is fulfilling the mandate to bring all of life under God's dominion. -Genesis 1:28; Psalm 2:7-12, 24:1; Isaiah 65:17-25; Matthew 6:9-10, 26:64; 1 Corinthians 15:22-28, 45-49; Colossians 1:16; Revelation 11:15-18; Westminster Larger Catechism (WLC) 45, 54, 191
 
     - d. Jesus Christ rules through His Word and Spirit, and through those spheres of authority upon earth which He calls to represent Him, especially the spheres of family, church, and state. -Matthew 16:17-19; John 16:5-15, 17:3; Romans 13:1-7; 1 Corinthians 15:20-28; Ephesians 5:18-19; Colossians 3:18-21; Hebrews 4:12; HC 31
 

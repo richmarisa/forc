@@ -10,7 +10,7 @@ section: content
 #### a member of Covenant Reformed Chapel, Greentown, OH
 November 2012
 
-In the first eight chapters of this book, Hosea is sharply reprimanding Israel for their national rebellion and apostasy. He repeatedly informs them of the punishment that lies ahead if they would not repent.� In this final chapter, he pleads with them to return to God and receive the forgiveness that God is so eager and willing to grant.  From these verses we can begin to understand what constitutes legitimate repentance and how wonderful the forgiveness of God is.
+In the first eight chapters of this book, Hosea is sharply reprimanding Israel for their national rebellion and apostasy. He repeatedly informs them of the punishment that lies ahead if they would not repent. In this final chapter, he pleads with them to return to God and receive the forgiveness that God is so eager and willing to grant.  From these verses we can begin to understand what constitutes legitimate repentance and how wonderful the forgiveness of God is.
 
 To begin with, we must acknowledge that it is our sin that is the problem.  Verse 1 says, "O Israel, return unto the LORD thy God; for thou hast fallen by thine iniquity." Now, our sin is not always the reason that we are dealing with troubles. God uses trials and tribulation to sanctify us and to mature us spiritually.
 
