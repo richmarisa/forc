@@ -31,14 +31,14 @@ section: content
 
     - b. An Optimistic Eschatology:
 
-        - 1. At His ascension to the throne on high, Jesus Christ received dominion, glory and a kingdom that all peoples, nations and languages should serve Him. As King of kings and Lord of lords, He is now seated at God's right hand, far above all principality and power and might and dominion, and every name that is named. -Daniel 7:13-14; Ephesians 1:15-23; Revelation 19:16
+        - <p class="ml-12">1. At His ascension to the throne on high, Jesus Christ received dominion, glory and a kingdom that all peoples, nations and languages should serve Him. As King of kings and Lord of lords, He is now seated at God's right hand, far above all principality and power and might and dominion, and every name that is named. -Daniel 7:13-14; Ephesians 1:15-23; Revelation 19:16</p>
 
-        - 2. By God's grace, believers have been delivered from the domain of darkness and translated into Christ's kingdom, which, by the power of the Holy Spirit in the proclamation of the Gospel, will extend throughout the whole earth. During this age God continues to pour out His Spirit upon all flesh, as Christ puts all enemies under His feet. -Joel 2:28-29; Matthew 13:31-33; Acts 1:8; Romans 3:21-26; 1 Corinthians 15:25; Colossians 1:13-14
+        - <p class="ml-12">2. By God's grace, believers have been delivered from the domain of darkness and translated into Christ's kingdom, which, by the power of the Holy Spirit in the proclamation of the Gospel, will extend throughout the whole earth. During this age God continues to pour out His Spirit upon all flesh, as Christ puts all enemies under His feet. -Joel 2:28-29; Matthew 13:31-33; Acts 1:8; Romans 3:21-26; 1 Corinthians 15:25; Colossians 1:13-14</p>
 
-        - 3. At His final advent, the Lord will deliver the kingdom to His Father, having destroyed all His enemies. The dead in Christ will be raised incorruptible, and we shall all be changed into His likeness. -1 Corinthians 15:22-28, 50-58; 1 John 3:1-3
+        - <p class="ml-12">3. At His final advent, the Lord will deliver the kingdom to His Father, having destroyed all His enemies. The dead in Christ will be raised incorruptible, and we shall all be changed into His likeness. -1 Corinthians 15:22-28, 50-58; 1 John 3:1-3</p>
 
  
-        - 4. Meanwhile, the Church Militant is divinely commissioned with the task of "occupying till He comes," carrying the Gospel of the kingdom to the ends of the earth and discipling the nations until the earth is filled with the knowledge of the Lord as the waters cover the sea. - Isaiah 11:9; Matthew 28:18-20; Luke 19:13; Acts 1:8
+        - <p class="ml-12">4. Meanwhile, the Church Militant is divinely commissioned with the task of "occupying till He comes," carrying the Gospel of the kingdom to the ends of the earth and discipling the nations until the earth is filled with the knowledge of the Lord as the waters cover the sea. - Isaiah 11:9; Matthew 28:18-20; Luke 19:13; Acts 1:8</p>
 
 ### B. POSITIONS:
 
@@ -56,7 +56,7 @@ In addition to those positions presented in the prior section the following are 
 
     - e. As the historic Savoy Declaration (26:5) states: "As the Lord in His care and love towards His Church, hath in His infinite wise providence exercised it with great variety in all ages, for the good of them that love Him, and His own glory: so according to His promise, we expect that in the latter days, antichrist being destroyed, the Jews called, the adversaries of the kingdom of His dear Son broken, the Churches of Christ being enlarged and edified through a free and plentiful communication of light and grace, shall enjoy in this world a more quiet, peaceable and glorious condition than they have enjoyed."
 
-2. A Presbyterial form of church government (see Sections II � IV). - Acts 15:1-29; 1 Timothy 3:1-7
+2. A Presbyterial form of church government (see Sections II - IV). - Acts 15:1-29; 1 Timothy 3:1-7
 
 3. An adherence to Biblical ethics:
 
@@ -74,9 +74,9 @@ In addition to those positions presented in the prior section the following are 
 
 5. The practice of Paedo-Communion:
 
-    - <p class="ml-8">a. Like unto the sacrament of Holy Baptism which God graciously offers to all believers and their children, the Lord's Supper, or Holy Communion, is the covenantal meal of the visible Church of Jesus Christ, in which the people of God are ever more incorporated into Christ's body, participating together in the power of endless life. John 6:47-58; Acts 2:38-39; 1 Corinthians 10:14-22; HC 75, 76; WCF XXIX:1; WLC 168</p>
+    - a. Like unto the sacrament of Holy Baptism which God graciously offers to all believers and their children, the Lord's Supper, or Holy Communion, is the covenantal meal of the visible Church of Jesus Christ, in which the people of God are ever more incorporated into Christ's body, participating together in the power of endless life. John 6:47-58; Acts 2:38-39; 1 Corinthians 10:14-22; HC 75, 76; WCF XXIX:1; WLC 168
 
-    - <p class="ml-8">b. As the whole people of God under the Old Covenant partook of the covenantal feasts, so the whole people of God under the New Covenant should partake of the covenantal feast of the Lord's Supper. - Exodus 12:43-48; Deuteronomy 16:1-17; Matthew 26:26-27; Acts 2:38-42</p>
+    - b. As the whole people of God under the Old Covenant partook of the covenantal feasts, so the whole people of God under the New Covenant should partake of the covenantal feast of the Lord's Supper. - Exodus 12:43-48; Deuteronomy 16:1-17; Matthew 26:26-27; Acts 2:38-42
 
     - c. As the whole people of God under the Old Covenant partook of Christ, eating the same spiritual food from heaven and drinking the same spiritual drink from the Rock, so the whole people of God under the New Covenant partake of Christ, eating and drinking the spiritual food of the Sacrament of His Body and Blood. - 1 Corinthians 10:1-4, 16-17; HC 75, 79; WLC 170
 
