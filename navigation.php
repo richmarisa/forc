@@ -18,7 +18,7 @@ return [
             'A More Covenental Approach to Tongues at Pentecost' => 'docs/tongues-pentecost',
             'Paedocommunion: A Scriptural and Pastoral Presentation' => 'docs/paedocommunion',
             'The Federation of Reformed Churches - A Short History' => 'docs/short-history',
-            'Three Ways to Affiliate with the FORC' => 'affiliate-with-forc.',
+            'Three Ways to Affiliate with the FORC' => 'affiliate-with-forc',
             'Church Music at a Crossroads' => 'docs/church-music',
             'Covenant Succession' => 'docs/covenant-succession',
             'The History of Paedocommunion - From the Early Church until 1500' => 'docs/history-paedocommunion',
