@@ -65,7 +65,7 @@ D.    Because the FORC considers the local church the only permanently existing 
 #### D. MAINTAINING RECOGNITION OF A PRESBYTER
 #### E. DEACONS AND OTHER OFFICES
 
-### III. MEMBERSHIP IN THE FEDERATION................................................. 14
+### III. MEMBERSHIP IN THE FEDERATION
 #### A. ORGANIZED CHURCHES
 #### B. CHURCH PLANTING.
 
@@ -73,7 +73,7 @@ D.    Because the FORC considers the local church the only permanently existing 
 #### D. ASSOCIATE MEMBERSHIP
 #### E. WITHDRAWAL OF MEMBERSHIP
 
-### IV. ASSEMBLIES:� THEIR DUTIES AND AUTHORITY
+### IV. ASSEMBLIES: THEIR DUTIES AND AUTHORITY
 
 #### A. PRESBYTERY
 B. COUNCIL
@@ -81,7 +81,7 @@ C. SYNOD
 
 ### V. CHURCH DISCIPLINE
 
-### VI. WORSHIP STYLES AND PRACTICES.................................................. 20
+### VI. WORSHIP STYLES AND PRACTICES
 
 ### VII. PROPERTY
 #### A. HELD BY CHURCH
@@ -99,7 +99,7 @@ C. SYNOD
  
 #### A.    PROLOGUE:
  
-1. God is to be worshipped (Doxology). The confessional response concerning the chief end of man is doxological. The chief end of man is to glorify God and to enjoy Him forever.� The worship of the Triune God (Father, Son and Holy Spirit) represents man's highest aim and greatest gain. The FORC sets forth the following to that end. - Psalm 29:1-2; Matthew 4:10; John 4:23-24
+1. God is to be worshipped (Doxology). The confessional response concerning the chief end of man is doxological. The chief end of man is to glorify God and to enjoy Him forever. The worship of the Triune God (Father, Son and Holy Spirit) represents man's highest aim and greatest gain. The FORC sets forth the following to that end. - Psalm 29:1-2; Matthew 4:10; John 4:23-24
 
 2. God is to be known, believed, and obeyed (Doctrine) and therefore: - Micah 6:8; John 3:13-18; 17:3
 
@@ -109,15 +109,15 @@ C. SYNOD
 
     c. The FORC believes that the historic Reformed confessions best define the system of doctrine taught in the Scriptures.� The specific choice of these confessional documents resides with each member church.
 
-3. God is the Alpha and Omega (Origins and Destiny).� In addition to a fuller depiction of FORC positions which follows, Scripture proclaims that God has declared the end from the beginning.
+3. God is the Alpha and Omega (Origins and Destiny). In addition to a fuller depiction of FORC positions which follows, Scripture proclaims that God has declared the end from the beginning.
 
     a. Creation and Early Church History: We believe that the world was created out of nothing in six normal days thousands of years ago. This truth is the historical foundation for all that the Bible teaches. We reject as a contradiction of Scripture: any form of the doctrine of evolution; any attempt to reduce the creative acts of God to a naturalistic process; any use of the literary structure of Genesis to deny that it is also a description of the actual events of creation; and any attempt to circumvent or deny Scripture's literal days and their chronological continuity with the historical record of Genesis. Thus we condemn Theistic Evolution, the Day Age theory, the Framework Hypothesis, and the Gap Theory. -Genesis 1:1 - 11:32; Hebrews 11:3
 
     b. An Optimistic Eschatology:
 
-    - <p class="ml-8">(1) At His ascension to the throne on high, Jesus Christ received dominion, glory and a kingdom that all peoples, nations and languages should serve Him.� As King of kings and Lord of lords, He is now seated at God�s right hand, far above all principality and power and might and dominion, and every name that is named. -Daniel 7:13-14; Ephesians 1:15-23; Revelation 19:16</p>
+    - <p class="ml-8">(1) At His ascension to the throne on high, Jesus Christ received dominion, glory and a kingdom that all peoples, nations and languages should serve Him.� As King of kings and Lord of lords, He is now seated at God's right hand, far above all principality and power and might and dominion, and every name that is named. -Daniel 7:13-14; Ephesians 1:15-23; Revelation 19:16</p>
 
-    - <p class="ml-8">(2) By God's grace, believers have been delivered from the domain of darkness and translated into Christ's kingdom, which, by the power of the Holy Spirit in the proclamation of the Gospel, will extend throughout the whole earth.� During this age God continues to pour out His Spirit upon all flesh, as Christ puts all enemies under His feet. -Joel 2:28-29; Matthew 13:31-33; Acts 1:8;���� �Romans 3:21-26; 1 Corinthians 15:25; Colossians 1:13-14</p>
+    - <p class="ml-8">(2) By God's grace, believers have been delivered from the domain of darkness and translated into Christ's kingdom, which, by the power of the Holy Spirit in the proclamation of the Gospel, will extend throughout the whole earth. During this age God continues to pour out His Spirit upon all flesh, as Christ puts all enemies under His feet. -Joel 2:28-29; Matthew 13:31-33; Acts 1:8;���� �Romans 3:21-26; 1 Corinthians 15:25; Colossians 1:13-14</p>
 
     - <p class="ml-8">(3) At His final advent, the Lord will deliver the kingdom to His Father, having destroyed all His enemies.� The dead in Christ will be raised incorruptible, and we shall all be changed into His likeness. -1 Corinthians 15:22-28, 50-58; 1 John 3:1-3</p>
 
@@ -126,7 +126,7 @@ C. SYNOD
 
 #### B. POSITIONS:
  
-In addition to those positions presented in the prior section the following are equally important. These by no means represent the exhaustive list of FORC beliefs, nor do they establish the boundaries of our fellowship. They do, however, represent some of those key areas where beliefs and practices ought to be allowed, embraced and encouraged.� It should be noted that Elders seeking FORC recognition, as well as those serving as FORC Presbyters should exhibit, demonstrate and maintain a suitable embrace and encouragement of these distinctives.
+In addition to those positions presented in the prior section the following are equally important. These by no means represent the exhaustive list of FORC beliefs, nor do they establish the boundaries of our fellowship. They do, however, represent some of those key areas where beliefs and practices ought to be allowed, embraced and encouraged. It should be noted that Elders seeking FORC recognition, as well as those serving as FORC Presbyters should exhibit, demonstrate and maintain a suitable embrace and encouragement of these distinctives.
 
 1. A belief in the Kingship of the Lord Jesus over all of life and culture now:
 
@@ -190,7 +190,7 @@ In addition to those positions presented in the prior section the following are 
 
 2. Examination:
 
-    a. The examination of a candidate who seeks to be an FORC recognized Presbyter shall be conducted by a Council (see Section IV, B).� Council may be called by a local FORC church whenever that church considers the candidate sufficiently prepared to undergo such an examination.
+    a. The examination of a candidate who seeks to be an FORC recognized Presbyter shall be conducted by a Council (see Section IV, B). Council may be called by a local FORC church whenever that church considers the candidate sufficiently prepared to undergo such an examination.
 
     b. All men who seek to be FORC recognized Presbyters are required to undergo an examination by Council, including those who have been previously ordained by other ecclesiastical bodies. Though members of the examining Council may ask the candidate any relevant questions, Council members demonstrate wisdom in recognizing the pertinent circumstances. Though it is the responsibility of Council to assure that the candidate is sufficiently qualified, it is also its responsibility to assist the church presenting the candidate, rather than to unreasonably hinder it.
 
@@ -204,9 +204,11 @@ In addition to those positions presented in the prior section the following are 
 
 2. In the broader courts: Though there may be a distinction between particular Presbyters in a local FORC church, all recognized Presbyters are equal in authority while participating in a Council or Synod. All recognized Presbyters may participate in such broader courts; however, no more than two recognized Presbyters per Presbytery may represent each member church and its mission churches by voting.
 
-#### D. MAINTAINING RECOGNITION OF A PRESBYTER: As indicated on the FORC Certificate of Recognition, a Presbyter is recognized only as long as he shall maintain a godly life and is in active church ministry in accordance with the general practices of the FORC.
+#### D. MAINTAINING RECOGNITION OF A PRESBYTER: 
 
-1. Conduct: Any charges or accusations against a Presbyter must be heard and adjudicated by his Presbytery.� A Presbyter found guilty of misconduct after all proper procedures have been followed, may lose his status as a Presbyter recognized by the FORC and be required to relinquish all documents distinguishing him as a Presbyter recognized by the FORC.
+As indicated on the FORC Certificate of Recognition, a Presbyter is recognized only as long as he shall maintain a godly life and is in active church ministry in accordance with the general practices of the FORC.
+
+1. Conduct: Any charges or accusations against a Presbyter must be heard and adjudicated by his Presbytery. A Presbyter found guilty of misconduct after all proper procedures have been followed, may lose his status as a Presbyter recognized by the FORC and be required to relinquish all documents distinguishing him as a Presbyter recognized by the FORC.
 
 2. Service:
 
@@ -226,7 +228,7 @@ Deacons and other Christian workers are certainly needed and highly respected; h
 
 #### A. ORGANIZED CHURCHES:
 
-Organized churches are recognized by the presence of a Presbytery (i.e., a local ruling court composed of two or more Presbyters/Elders).� Such churches may apply for membership in the FORC via application of the Presbyters.� A local church is considered a member church when at least one member of the Presbytery of that church possesses FORC credentials.
+Organized churches are recognized by the presence of a Presbytery (i.e., a local ruling court composed of two or more Presbyters/Elders). Such churches may apply for membership in the FORC via application of the Presbyters.� A local church is considered a member church when at least one member of the Presbytery of that church possesses FORC credentials.
 
 #### B. CHURCH PLANTING: 
 
