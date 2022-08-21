@@ -6,8 +6,8 @@ section: content
 ---
 # The Federation of Reformed Churches- A Short History
 
-A Short History (AD 2008)<br>
-David Shank and Stephen Jones[1]
+A Short History (AD 2008)
+#### David Shank and Stephen Jones[^1]
 
 "We knew something was wrong" -- so began Presbyter Dave Shank in his discussion of the early history of the Federation of Reformed Churches (FORC). All of us, the current and human results of that history, were happily seated with our wives and children or grandchildren, thoroughly enjoying the historical presentation along with the many stories that the longest serving FORC pastor was sharing with us. It was a warm and sunny day at a retreat/campground in upstate New York where we were joining together in our initial merging of the friendly fellowship of a family retreat and the sober deliberations of a Synod. This Synod/Retreat of the summer of 2008 was making FORC history even as Pastor Shank took us into the past.
 
@@ -65,4 +65,4 @@ In this spirit of fellowship, there were a few quips and chuckles and then a hus
 
 --------------------------------------------------------------------------------
 
-[1] As the story-teller at our Retreat, Pastor Shank is the first author of this short, historical sketch. As the second author, I have the privilege of inserting Shank himself into the mix of FORC history. We very much appreciate the review and additions of Paul Slish to this article.
+[^1]: As the story-teller at our Retreat, Pastor Shank is the first author of this short, historical sketch. As the second author, I have the privilege of inserting Shank himself into the mix of FORC history. We very much appreciate the review and additions of Paul Slish to this article.

@@ -6,7 +6,7 @@ section: content
 ---
 # A More Covenantal Approach to Tongues at Pentecost
 
-Daniel M. Brown<br>
+#### Daniel M. Brown
 Elder, Redeemer Presbyterian Church<br>
 member church of FORC<br>
 Madison, Alabama<br>
