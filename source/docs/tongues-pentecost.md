@@ -6,7 +6,7 @@ section: content
 ---
 <div class="w-full text-right">
     <a 
-        href="docs/Pentecost.pdf"
+        href="/docs/Pentecost.pdf"
         target="_blank"
     >
         <button type="button">

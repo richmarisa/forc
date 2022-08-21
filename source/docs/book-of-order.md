@@ -6,7 +6,7 @@ section: content
 ---
 <div class="w-full text-right">
     <a 
-        href="docs/FORCBook.pdf"
+        href="/docs/FORCBook.pdf"
         target="_blank"
     >
         <button type="button">
