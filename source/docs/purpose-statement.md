@@ -5,7 +5,7 @@ extends: _layouts.documentation
 section: content
 ---
 # The Purpose of the Federation of Reformed Churches 
-Presbyter Paul Slish
+#### Presbyter Paul Slish
 
 The Federation of Reformed Churches (FORC) exists to glorify God. Its primary purpose is to serve and nurture local churches.
 

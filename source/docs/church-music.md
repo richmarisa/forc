@@ -7,7 +7,7 @@ section: content
 # Church Music at a Crossroads
 ## The Liturgical Authority of the Old Testament
 
-By Rev. Dr. Robert S. Rayburn<br>
+#### Rev. Dr. Robert S. Rayburn
 July 20,1999
 
 There is a scene in the film Dead Poets Society in which Robin Williams, playing a New England Prep School English teacher, begins a class by asking a young student to read the introduction to a text on English poetry. The student begins, but after a few lines, Robin Williams interrupts him and tells him that what he has read is all wrong. Rip out that page, he tells the student. The student smiles. Of course the teacher is joking. No. Rip it out! Rip that page out of the book. Well, one doesn't have to tell a class of adolescent boys more than twice to rip pages out of their textbooks. He rips the page out of the book and his fellow students do the same.

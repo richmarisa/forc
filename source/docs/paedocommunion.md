@@ -6,7 +6,7 @@ section: content
 ---
 # Paedocommunion: A Scriptural and Pastoral Presentation
 
-Submitted by Presbyter Stewart Jordan to Evangel Presbytery<br>
+#### Submitted by Presbyter Stewart Jordan to Evangel Presbytery
 May 1, 2002
 
 **Note:** In January of this year I reported to the Pastoral Committee that I had changed my view about paedocommunion[^1] since coming into the Presbytery. As the 1988 General Assembly instructed, I was now making this exception to our standards known[^2]. I also informed them that this change had come within the context of a study our whole session had conducted on this issue over the course of a year and a half, and that all of our elders had come to believe that this is what Scripture teaches. At the Presbytery meeting on January 28th, 2002, the decision about whether to allow the exception was tabled until the May meeting, and our session was directed to further study this issue and submit a paper giving a Scriptural defense of paedocommunion. This I now do writing for, and in consultation with, our other elders. Let me make clear that our session plans to continue to keep our practice in compliance with the BCO and are committed, as the motion of the Pastoral Committee would direct us, to handle this issue within in our body in a way that promotes the peace and purity of the church. The issue at hand, as we understand it, is simply whether my exception as a Teaching Elder will be allowed. Let me also make clear that there are much better presentations of this position and much more able defenders of it as well.[^3] But I do hope that this will suffice for the immediate purpose and that it might contribute something helpful to this discussion.
