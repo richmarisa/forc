@@ -1,42 +1,39 @@
 ---
-title: Book of Church Oerder
+title: Book of Church Order
 description: The Federation of Reformed Churches
 extends: _layouts.documentation
 section: content
 ---
+<div class="w-full text-right">
+    <a 
+        href="docs/FORCBook.pdf"
+        target="_blank"
+    >
+        <button type="button">
+            Download as PDF
+        </button>
+    </a>
+</div>
 
 # Book of Church Order
-
 of
-
- 
-
 ## The Federation of Reformed Churches
 ## (FORC)
 
-
 For additional information about the FORC, address:
 
- 
 The Federation of Reformed Churches<br>
 P O Box 214<br>
 Gurley, AL 35748-8777
 
- 
 Or visit the FORC website at<br>
 www.federationorc.org
  
-
-
 Fourteenth Edition
 
 Revised: August 9, 2018
 
-
-
-INTRODUCTION
-
- 
+## INTRODUCTION
 
 A.    Every day in the modern world a new denomination is formed by those thinking they have a better and more Biblical way. No denomination is justified in its origin without just or necessary cause, nor should they emerge for light or frivolous reasons. This briefly is our story. The FORC came into being when, through the introduction of various unbiblical and humanistic influences, many Biblical and historic beliefs and practices had fallen into disfavor. Those holding such beliefs and practices began to be unwelcome in their ecclesiastical communities and associations. Some even faced hostilities. Though in God's providence there were some negative events involved in our origin, our desire going forward is to make a positive contribution to serving Christ's church and cause. In August 1989 the Pastors of several churches met to consider beginning an affiliation where they were free to hold and practice beliefs important to them. Also they desired to give concrete expression to their connection to the catholic church. In January 1990 the first Synod of the Fellowship of Reformed Churches took place in Fairfax, Virginia. In 1992 the name of the denomination was changed to Federation of Reformed Churches. By 1993, a Book of Church Order defining doctrine and government was produced.
 

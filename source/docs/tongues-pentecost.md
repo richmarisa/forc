@@ -4,6 +4,17 @@ description:
 extends: _layouts.documentation
 section: content
 ---
+<div class="w-full text-right">
+    <a 
+        href="docs/Pentecost.pdf"
+        target="_blank"
+    >
+        <button type="button">
+            Download as PDF
+        </button>
+    </a>
+</div>
+
 # A More Covenantal Approach to Tongues at Pentecost
 
 #### Daniel M. Brown
