@@ -29,7 +29,7 @@ Evagrius, who lived from c.536-600[^8] , was also one of the earliest church his
 
 Joseph Bingham, author of the ten volume work, Antiquities of the Christian Church, plainly states the terms by which the ancient church decided who would and who would not be invited to the Lord's Table when he wrote that those who continued in heresy or schism... were of the number... to whom the church refused to give the sacrament, as persons not being in full communion with her. \[However\]... it is beyond dispute, that as she baptized infants, and gave them the unction of chrism with imposition of hands for confirmation, so she immediately admitted them to a participation of the eucharist, as soon as they were baptized, and ever after without exception. [^11]
 
-References to infant and child participation in the Lord's Supper continue... throughout the period of Charlemagne and following.12 There are also many other church historians and scholars who believe that early evidence clearly leads one to believe that paedocommunion was a common practice in the earliest days of the ancient church. Among these are Jeremy Taylor[^13] , Eugene L. Brand,[^14] Williston Walker,[^15] R.J. Rushdoony,[^16] David G. Hamilton,[^17] Charles Crawford[^18], J.H. Srawley,[^19] James Jordan[^20] and Peter J. Leithart.[^21]
+References to infant and child participation in the Lord's Supper continue... throughout the period of Charlemagne and following.[^12] There are also many other church historians and scholars who believe that early evidence clearly leads one to believe that paedocommunion was a common practice in the earliest days of the ancient church. Among these are Jeremy Taylor[^13] , Eugene L. Brand,[^14] Williston Walker, R.J. Rushdoony, David G. Hamilton, Charles Crawford, J.H. Srawley, James Jordan and Peter J. Leithart.
 
 Those who say that infancy has nothing in it for Jesus to save, are denying that Christ is Jesus for all believing infants. Those, I repeat, who say that infancy has nothing in it for Jesus to save, are saying nothing else than that for believing infants, infants that is who have been baptized in Christ, Christ the Lord is not Jesus. After all, what is Jesus? Jesus means Savior. Jesus is the Savior. Those whom he doesn't save, having nothing to save in them, well for them he isn't Jesus. Well now, if you can tolerate the idea that Christ is not Jesus for some persons who have been baptized, then I'm not sure your faith can be recognized as according with the sound rule. Yes, they're infants, but they are his members. They're infants, but they receive his sacraments. They are infants, but they share in his table, in order to have life in themselves.[^36]
 
@@ -101,7 +101,7 @@ There have been a few reformational attempts in the West to restore the early ch
 
 > From the mouths of small children And of all innocent babes Has come forth God's praise That the adversary may be cast down.
 
->Praise God, you children You tiny babes, For he will not drive you away, But feed you on his holy body.[^86]
+Praise God, you children You tiny babes, For he will not drive you away, But feed you on his holy body.[^86]
 
 [^1]: Christian L. Keidel, Is the Lord's Supper for Children?, Westminster Theological Journal XXXVII (1975): 301.
 

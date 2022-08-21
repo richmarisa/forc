@@ -112,11 +112,11 @@ C. SYNOD
 
     b. An Optimistic Eschatology:
 
-    - <p class="ml-8">(1) At His ascension to the throne on high, Jesus Christ received dominion, glory and a kingdom that all peoples, nations and languages should serve Him.� As King of kings and Lord of lords, He is now seated at God's right hand, far above all principality and power and might and dominion, and every name that is named. -Daniel 7:13-14; Ephesians 1:15-23; Revelation 19:16</p>
+    - <p class="ml-8">(1) At His ascension to the throne on high, Jesus Christ received dominion, glory and a kingdom that all peoples, nations and languages should serve Him. As King of kings and Lord of lords, He is now seated at God's right hand, far above all principality and power and might and dominion, and every name that is named. -Daniel 7:13-14; Ephesians 1:15-23; Revelation 19:16</p>
 
-    - <p class="ml-8">(2) By God's grace, believers have been delivered from the domain of darkness and translated into Christ's kingdom, which, by the power of the Holy Spirit in the proclamation of the Gospel, will extend throughout the whole earth. During this age God continues to pour out His Spirit upon all flesh, as Christ puts all enemies under His feet. -Joel 2:28-29; Matthew 13:31-33; Acts 1:8;���� �Romans 3:21-26; 1 Corinthians 15:25; Colossians 1:13-14</p>
+    - <p class="ml-8">(2) By God's grace, believers have been delivered from the domain of darkness and translated into Christ's kingdom, which, by the power of the Holy Spirit in the proclamation of the Gospel, will extend throughout the whole earth. During this age God continues to pour out His Spirit upon all flesh, as Christ puts all enemies under His feet. -Joel 2:28-29; Matthew 13:31-33; Acts 1:8; Romans 3:21-26; 1 Corinthians 15:25; Colossians 1:13-14</p>
 
-    - <p class="ml-8">(3) At His final advent, the Lord will deliver the kingdom to His Father, having destroyed all His enemies.� The dead in Christ will be raised incorruptible, and we shall all be changed into His likeness. -1 Corinthians 15:22-28, 50-58; 1 John 3:1-3</p>
+    - <p class="ml-8">(3) At His final advent, the Lord will deliver the kingdom to His Father, having destroyed all His enemies. The dead in Christ will be raised incorruptible, and we shall all be changed into His likeness. -1 Corinthians 15:22-28, 50-58; 1 John 3:1-3</p>
 
     - <p class="ml-8">(4) Meanwhile, the Church Militant is divinely commissioned with the task of "occupying till He comes," carrying the Gospel of the kingdom to the ends of the earth and discipling the nations until the earth is filled with the knowledge of the Lord as the waters cover the sea. - Isaiah 11:9; Matthew 28:18-20; Luke 19:13; Acts 1:8</p>
 
@@ -131,7 +131,7 @@ In addition to those positions presented in the prior section the following are 
 
     b. Jesus Christ has conquered death and hell, has given Himself for His people, and sits now at the right hand of the Father as King over all creation. -Isaiah 9:6-7; Matthew 1:21, 28:18-20; Acts 2:32-36; Galatians 1:3-5; 2 Timothy 1:10; Hebrews 1:8-9; Revelation 1:18; Westminster Confession of Faith (WCF) VIII:4; Heidelberg Catechism (HC) 31, 46
 
-    c. This Kingship includes both heaven and earth.� As the last Adam, Jesus is fulfilling the mandate to bring all of life under God's dominion. -Genesis 1:28; Psalm 2:7-12, 24:1; Isaiah 65:17-25; Matthew 6:9-10, 26:64; 1 Corinthians 15:22-28, 45-49; Colossians 1:16; Revelation 11:15-18; Westminster Larger Catechism (WLC) 45, 54, 191
+    c. This Kingship includes both heaven and earth. As the last Adam, Jesus is fulfilling the mandate to bring all of life under God's dominion. -Genesis 1:28; Psalm 2:7-12, 24:1; Isaiah 65:17-25; Matthew 6:9-10, 26:64; 1 Corinthians 15:22-28, 45-49; Colossians 1:16; Revelation 11:15-18; Westminster Larger Catechism (WLC) 45, 54, 191
 
     d. Jesus Christ rules through His Word and Spirit, and through those spheres of authority upon earth which He calls to represent Him, especially the spheres of family, church, and state. -Matthew 16:17-19; John 16:5-15, 17:3; Romans 13:1-7; 1 Corinthians 15:20-28; Ephesians 5:18-19; Colossians 3:18-21; Hebrews 4:12; HC 31
 
@@ -157,7 +157,7 @@ In addition to those positions presented in the prior section the following are 
 
     a. Like unto the sacrament of Holy Baptism which God graciously offers to all believers and their children, the Lord's Supper, or Holy Communion, is the covenantal meal of the visible Church of Jesus Christ, in which the people of God are ever more incorporated into Christ's body, participating together in the power of endless life. - John 6:47-58; Acts 2:38-39; 1 Corinthians 10:14-22; HC 75, 76; WCF XXIX:1; WLC 168
 
-    b. As the whole people of God under the Old Covenant partook of the covenantal feasts, so the whole people of God under the New Covenant should partake of the covenantal feast of the Lord's Supper.� -Exodus 12:43-48; Deuteronomy 16:1-17; Matthew 26:26-27; Acts 2:38-42
+    b. As the whole people of God under the Old Covenant partook of the covenantal feasts, so the whole people of God under the New Covenant should partake of the covenantal feast of the Lord's Supper. -Exodus 12:43-48; Deuteronomy 16:1-17; Matthew 26:26-27; Acts 2:38-42
 
     c. As the whole people of God under the Old Covenant partook of Christ, eating the same spiritual food from heaven and drinking the same spiritual drink from the Rock, so the whole people of God under the New Covenant partake of Christ, eating and drinking the spiritual food of the Sacrament of His Body and Blood. - 1 Corinthians 10:1-4, 16-17; HC 75, 79; WLC 170
 
@@ -167,7 +167,7 @@ In addition to those positions presented in the prior section the following are 
 
 #### A. PRESBYTERS:
 
-1. Presbyters are officers ordained by the local church or another ecclesiastical body for the purpose of ministering God's Word and the Sacraments of Holy Baptism and Holy Communion. Presbyters are thereby authorized to perform matrimonial rites, bury the dead, govern the local church, and perform all other duties of a Minister of the Gospel. Two or more such officers in a local church shall be known as the Presbytery. �Acts 14:21-23, 20:17, 26-32
+1. Presbyters are officers ordained by the local church or another ecclesiastical body for the purpose of ministering God's Word and the Sacraments of Holy Baptism and Holy Communion. Presbyters are thereby authorized to perform matrimonial rites, bury the dead, govern the local church, and perform all other duties of a Minister of the Gospel. Two or more such officers in a local church shall be known as the Presbytery. Acts 14:21-23, 20:17, 26-32
 
 2. One who sets his heart on a Presbyterial office in the church, desires a noble task. However, to desire such an office is not to thrust oneself into ecclesiastical functions without a legitimate call. Such a ministry is to be entrusted to faithful and able men. -1 Timothy 3:1-7; 2 Timothy 2:2; Titus 1:7-9
 
@@ -225,7 +225,7 @@ Deacons and other Christian workers are certainly needed and highly respected; h
 
 #### A. ORGANIZED CHURCHES:
 
-Organized churches are recognized by the presence of a Presbytery (i.e., a local ruling court composed of two or more Presbyters/Elders). Such churches may apply for membership in the FORC via application of the Presbyters.� A local church is considered a member church when at least one member of the Presbytery of that church possesses FORC credentials.
+Organized churches are recognized by the presence of a Presbytery (i.e., a local ruling court composed of two or more Presbyters/Elders). Such churches may apply for membership in the FORC via application of the Presbyters. A local church is considered a member church when at least one member of the Presbytery of that church possesses FORC credentials.
 
 #### B. CHURCH PLANTING: 
 
@@ -239,7 +239,7 @@ Ministers involved in the task of church planting and desiring recognition by th
 
     b. Each member, mission, and associate church shall submit a written report to each Synod (telephone Synods excluded).
 
-2. Dues: Membership dues are to be paid by each member, mission, and associate church on an annual basis, with installment payments allowed.� Since Synod establishes the amount of such dues, in the case of churches unable to meet this requirement, Synod may adjust this amount accordingly.
+2. Dues: Membership dues are to be paid by each member, mission, and associate church on an annual basis, with installment payments allowed. Since Synod establishes the amount of such dues, in the case of churches unable to meet this requirement, Synod may adjust this amount accordingly.
 
 3. Churches not in good standing: A church will be considered as not in good standing if:
 
@@ -251,7 +251,7 @@ Ministers involved in the task of church planting and desiring recognition by th
 
 #### D. ASSOCIATE MEMBERSHIP: 
 
-An associate membership with the FORC may be requested by a Presbytery or other ecclesiastical body in general agreement with FORC doctrine and sacraments.� This membership must be approved by a Council (See Section IV, B).
+An associate membership with the FORC may be requested by a Presbytery or other ecclesiastical body in general agreement with FORC doctrine and sacraments. This membership must be approved by a Council (See Section IV, B).
 
 #### E. WITHDRAWAL OF MEMBERSHIP:
 
@@ -283,7 +283,7 @@ Presbytery is composed of the Presbyters of a local church and is responsible fo
 
 1. Synod is composed of recognized Presbyters representing the churches within the entire FORC.
 
-2. The purpose of Synod is to conduct business pertinent to the entire FORC, as well as to serve as an appellate court for cases appealed beyond the Council level.� The purpose of Synod is also to provide mutual accountability among Presbyters.� Synod shall certify the roll of recognized Presbyters, and the Secretary shall record it in the minutes.
+2. The purpose of Synod is to conduct business pertinent to the entire FORC, as well as to serve as an appellate court for cases appealed beyond the Council level. The purpose of Synod is also to provide mutual accountability among Presbyters. Synod shall certify the roll of recognized Presbyters, and the Secretary shall record it in the minutes.
 
 3. Synod is called by the Presbytery of a member church.
 
@@ -309,7 +309,7 @@ Discipline, consisting of positive and negative sanctions, is part and parcel of
 
     - (3)   may advise that Presbytery to reconsider its decision on the basis of additional evidence.
 
-2. Broader courts do not, therefore, have the right to originate discipline ending in excommunication (a right belonging properly to the Presbyteries).� The authority of broader courts extends only to the right to dissolve the relationship of member churches to the FORC or the recognition of Presbyters by the FORC, when such churches or Presbyters, by their rejection of advice and counsel evidence that they are out of harmony with the doctrines and distinctives of the FORC.
+2. Broader courts do not, therefore, have the right to originate discipline ending in excommunication (a right belonging properly to the Presbyteries). The authority of broader courts extends only to the right to dissolve the relationship of member churches to the FORC or the recognition of Presbyters by the FORC, when such churches or Presbyters, by their rejection of advice and counsel evidence that they are out of harmony with the doctrines and distinctives of the FORC.
 
 #### B. PROCEDURE FOR HANDLING APPEALS:
 
