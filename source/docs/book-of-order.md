@@ -73,8 +73,8 @@ D.    Because the FORC considers the local church the only permanently existing 
 ### IV. ASSEMBLIES: THEIR DUTIES AND AUTHORITY
 
 #### A. PRESBYTERY
-B. COUNCIL
-C. SYNOD
+#### B. COUNCIL
+#### C. SYNOD
 
 ### V. CHURCH DISCIPLINE
 
@@ -104,7 +104,7 @@ C. SYNOD
 
     b. While the FORC considers no other written document to be of the same authority as Scripture, its members hold to the Apostles Creed, the Nicene Creed, and the Creed of Chalcedon.
 
-    c. The FORC believes that the historic Reformed confessions best define the system of doctrine taught in the Scriptures.� The specific choice of these confessional documents resides with each member church.
+    c. The FORC believes that the historic Reformed confessions best define the system of doctrine taught in the Scriptures. The specific choice of these confessional documents resides with each member church.
 
 3. God is the Alpha and Omega (Origins and Destiny). In addition to a fuller depiction of FORC positions which follows, Scripture proclaims that God has declared the end from the beginning.
 
