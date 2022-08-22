@@ -17,14 +17,14 @@
             </div>
         </div>
 
-        <img src="/assets/img/logo-large.svg" alt="{{ $page->siteName }} large logo" class="mx-auto mb-6 lg:mb-0 ">
+        <img src="/assets/img/church.png" alt="{{ $page->siteName }} large logo" class="mx-auto mb-6 lg:mb-0 ">
     </div>
 
     <hr class="block my-8 border lg:hidden">
 
     <div class="md:flex -mx-2 -mx-4">
         <div class="mb-8 mx-3 px-2 md:w-1/3">
-            <img src="/assets/img/icon-window.svg" class="h-12 w-12" alt="window icon">
+            <img src="/assets/img/church.png" class="h-12 w-12" alt="window icon">
 
             <h3 id="intro-laravel" class="text-2xl text-blue-900 mb-0">
                 Purpose Statement
@@ -34,7 +34,7 @@
         </div>
 
         <div class="mb-8 mx-3 px-2 md:w-1/3">
-            <img src="/assets/img/icon-terminal.svg" class="h-12 w-12" alt="terminal icon">
+            <img src="/assets/img/church.png" class="h-12 w-12" alt="terminal icon">
 
             <h3 id="intro-markdown" class="text-2xl text-blue-900 mb-0">
                 Our Distinctives
@@ -44,7 +44,7 @@
         </div>
 
         <div class="mx-3 px-2 md:w-1/3">
-            <img src="/assets/img/icon-stack.svg" class="h-12 w-12" alt="stack icon">
+            <img src="/assets/img/church.png" class="h-12 w-12" alt="stack icon">
 
             <h3 id="intro-mix" class="text-2xl text-blue-900 mb-0">
                 List of Churches

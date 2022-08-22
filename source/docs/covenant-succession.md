@@ -62,7 +62,7 @@ These were then institutionalized in the revivalist paradigm of the experience o
 
 The penetration of revivalist thinking into the Presbyterian Church, Schenck argues, created a situation in which
 
-Many influential leaders and a large popular constituency held the historical Reformed doctrine of the significance of infant baptism in a "non-natural sense." Many held that children of the covenant were only "quasi" members of the church. There was no trace or recognition of a vital church relation until, by conscious conversion, they came �out of the world.[^18]
+Many influential leaders and a large popular constituency held the historical Reformed doctrine of the significance of infant baptism in a "non-natural sense." Many held that children of the covenant were only "quasi" members of the church. There was no trace or recognition of a vital church relation until, by conscious conversion, they came out of the world.[^18]
 
 Schenck cites J. W. Alexander, L. H. Atwater, Ashbel Green, Samuel Miller, and Charles Hodge, among others, whose voices were raised in protest against the growing tendency to consider baptized children as though they were out of the church and to neglect the church's historic doctrine of covenant succession.
 
