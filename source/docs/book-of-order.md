@@ -43,7 +43,7 @@ B.     The Federation of Reformed Churches (FORC) Book of Church Order (BCO) is 
 
 C.     The FORC exists for the purpose of serving and nurturing local churches. The attitude of the FORC towards all is expressed in the words of the Apostle Paul, Let nothing be done through selfish ambition or conceit, but in lowliness of mind let each esteem others better than himself. Let each of you look out not only for his own interests, but also for the interests of others -Philippians 2:3-4.
 
-D.    Because the FORC considers the local church the only permanently existing ecclesiastical body, most issues dealing with church government and discipline are defined and dealt with at that local level.� There is nevertheless a relationship between each church within the FORC, which is defined herein.
+D.    Because the FORC considers the local church the only permanently existing ecclesiastical body, most issues dealing with church government and discipline are defined and dealt with at that local level. There is nevertheless a relationship between each church within the FORC, which is defined herein.
 
 
 ## Contents

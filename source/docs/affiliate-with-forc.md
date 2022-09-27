@@ -15,4 +15,4 @@ Ministers involved in the task of church planting and desiring recognition by th
 ### ASSOCIATE MEMBERSHIP
 An associate membership with the FORC may be requested by a Presbytery in general agreement with FORC doctrine and sacraments. This membership must be approved by a Council (See BCO IV, B).
 
-The complete FORC Book of Church Order is <a href="/docs/book-of-order">available here</a>".
+The complete FORC Book of Church Order is <a href="/docs/book-of-order">available here</a>.
