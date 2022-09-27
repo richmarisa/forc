@@ -33,12 +33,6 @@ Website: ststephens-uec-wny.org<br>
 **Presbyter:**<br>
 Paul Slish, lemko@roadrunner.com,  716-837-1964<br>
 
-#### Covenant Reformed Chapel
-Greentown, OH<br>
-Phone: (330) 494-6385<br>
-**Presbyter**<br>
-Brandon Mantel<br>
-
 #### Sovereign Christ Church
 Mansfield, OH 44905<br>
 Website: https://www.sovereignchrist.net<br>
