@@ -25,18 +25,14 @@ section: content
 
 For additional information about the FORC, address:
 
-The Federation of Reformed Churches
-
-P O Box 214
-
+The Federation of Reformed Churches<br>
+P O Box 214<br>
 Gurley, AL 35748-8777
 
-Or visit the FORC website at
-
+Or visit the FORC website at<br>
 www.federationorc.org
 
-Fifteenth Edition
-
+Fifteenth Edition<br>
 Revised – August 7, 2019
 
 ## INTRODUCTION
