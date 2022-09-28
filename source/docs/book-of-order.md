@@ -9,7 +9,7 @@ section: content
         href="/docs/FORCBook15.pdf"
         target="_blank"
     >
-        <button type="button">
+        <button type="button" class="m-2">
             Download as PDF
         </button>
     </a>
@@ -296,11 +296,11 @@ Discipline, consisting of positive and negative sanctions, is part and parcel of
 
 1. Discipline is administered by Presbyteries, and consists of counsel, warnings, and excommunication. All cases of church discipline, including cases that end in excommunication, must originate in and be enforced by Presbyteries. Broader courts (Council and Synod), upon appeal: -Acts 15:1-35
 
-        - (1) may concur with the actions of a Presbytery.
+    - <p class="ml-8"> (1) may concur with the actions of a Presbytery.
 
-        - (2) may rule a Presbytery did not follow proper procedures or made a wrong judgment, and thus advise that Presbytery to reconsider its decision.
+    -  <p class="ml-8"> (2) may rule a Presbytery did not follow proper procedures or made a wrong judgment, and thus advise that Presbytery to reconsider its decision.
 
-        - (3) may advise that Presbytery to reconsider its decision on the basis of additional evidence.
+    - <p class="ml-8"> (3) may advise that Presbytery to reconsider its decision on the basis of additional evidence.
 
 2. Broader courts do not, therefore, have the right to originate discipline ending in excommunication (a right belonging properly to the Presbyteries). The authority of broader courts extends only to the right to dissolve the relationship of member churches to the FORC or the recognition of Presbyters by the FORC, when such churches or Presbyters, by their rejection of advice and counsel evidence that they are out of harmony with the doctrines and distinctives of the FORC.
 
