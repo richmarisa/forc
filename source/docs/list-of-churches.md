@@ -10,7 +10,7 @@ section: content
 #### Keel Mountain Presbyterian Church
 Gurley, AL<br>
 **Presbyter**<br>
-<a href="mailto:banjo5pkr@hughes.net">Dan Brown</a>(256) 776-4818 or (256) 651-1176
+<a href="mailto:banjo5pkr@att.net">Dan Brown</a>(256) 776-4818 or (256) 651-1176
 
 #### Church of the King
 Peoria, IL<br>
