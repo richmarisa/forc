@@ -14,4 +14,4 @@ Gurley, AL 35748-8777
 ## By eMail
 Dan Brown, Administrator<br>
 Dan Brown (256) 776-4818 or (256) 651-1176<br>
-banjo5pkr@hughes.net
+banjo5pkr@att.net

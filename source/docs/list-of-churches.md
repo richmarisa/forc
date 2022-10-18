@@ -29,7 +29,7 @@ Ralph Reigle<br>
 
 #### St. Stephen's Anglican Church (Associate)
 Williamsville, NY<br>
-Website: ststephens-uec-wny.org<br>
+Website: https://saintstephensiacwnydotorg.wordpress.com/<br>
 **Presbyter:**<br>
 Paul Slish, lemko@roadrunner.com,  716-837-1964<br>
 
