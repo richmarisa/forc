@@ -39,3 +39,9 @@ Website: [https://www.sovereignchrist.net](https://www.sovereignchrist.net)<br>
 **Presbyters:**<br>
 Clint Zeigler, hiswordsrtrue@yahoo.com<br>
 Kyle Robbins<br>
+
+#### Dominion Reformed Fellowship
+Minerva, OH 44657<br>
+Website: [https://dominionreformedfellowship.org](https://dominionreformedfellowship.org)<br>
+**Presbyter:**<br>
+Clint Frazier, 330-205-3133<br>
