@@ -30,6 +30,7 @@ Ralph Reigle<br>
 #### St. Stephen's Anglican Church (Associate)
 Williamsville, NY<br>
 Website: [https://saintstephensiacwnydotorg.wordpress.com/](https://saintstephensiacwnydotorg.wordpress.com/)<br>
+
 **Presbyter:**<br>
 Paul Slish, lemko@roadrunner.com,  716-837-1964<br>
 
@@ -43,5 +44,6 @@ Kyle Robbins<br>
 #### Dominion Reformed Fellowship
 Minerva, OH 44657<br>
 Website: [https://dominionreformedfellowship.org](https://dominionreformedfellowship.org)<br>
+Facebook: [https://www.facebook.com/dominionreformedfellowship](https://www.facebook.com/dominionreformedfellowship)<br>
 **Presbyter:**<br>
-Clint Frazier, 330-205-3133<br>
+Clint Frazier, clint@dominionreformedfellowship.org, 330-205-3133<br>
