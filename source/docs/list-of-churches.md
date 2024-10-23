@@ -20,9 +20,9 @@ Facebook: [https://www.facebook.com/cotkpeoria](https://www.facebook.com/cotkpeo
 Nathan Riese nathan.riese@gmail.com<br>
 Scott Price<br>
 
-#### Christ Church, Ithaca, NY
+#### Christ Reformed Church, Candor, NY
 meeting in Candor, NY<br>
-Website: [https://christchurchithaca.net](https://christchurchithaca.net)<br>
+Website: [https://christ-reformed-church.net](https://christ-reformed-church.net)<br>
 **Presbyters**<br>
 Michael Jones, mjones54@twcny.rr.com<br>
 Ralph Reigle<br>
