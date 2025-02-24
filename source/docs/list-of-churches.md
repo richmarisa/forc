@@ -12,6 +12,15 @@ Gurley, AL<br>
 **Presbyter**<br>
 <a href="mailto:banjo5pkr@att.net">Dan Brown</a>(256) 776-4818 or (256) 651-1176
 
+#### Princeville Presbyterian Church
+Princeville, IL<br>
+Website: [https://www.princevillepc.org/](https://www.princevillepc.org/)<br>
+Facebook: [https://www.facebook.com/princevillepresbyterian/](https://www.facebook.com/princevillepresbyterian/)<br>
+**Presbyters**<br>
+Nathan Riese, nathan.riese@gmail.com, 309-307-5890<br>
+Steve Lehmann<br>
+Kirk Potter<br>
+
 #### Christ Reformed Church, Candor, NY
 meeting in Candor, NY<br>
 Website: [https://christ-reformed-church.net](https://christ-reformed-church.net)<br>
@@ -40,11 +49,4 @@ Facebook: [https://www.facebook.com/dominionreformedfellowship](https://www.face
 **Presbyter:**<br>
 Clint Frazier, clint@dominionreformedfellowship.org, 330-205-3133<br>
 
-#### Princeville Presbyterian Church
-Princeville, IL<br>
-Website: [https://www.princevillepc.org/](https://www.princevillepc.org/)<br>
-Facebook: [https://www.facebook.com/princevillepresbyterian/](https://www.facebook.com/princevillepresbyterian/)<br>
-**Presbyters**<br>
-Nathan Riese, nathan.riese@gmail.com, 309-307-5890<br>
-Steve Lehmann<br>
-Kirk Potter<br>
+
