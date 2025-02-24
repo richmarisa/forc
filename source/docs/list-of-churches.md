@@ -12,14 +12,6 @@ Gurley, AL<br>
 **Presbyter**<br>
 <a href="mailto:banjo5pkr@att.net">Dan Brown</a>(256) 776-4818 or (256) 651-1176
 
-#### Church of the King
-Peoria, IL<br>
-Website: [https://cotkpeoria.wixsite.com/churchoftheking](https://cotkpeoria.wixsite.com/churchoftheking)<br>
-Facebook: [https://www.facebook.com/cotkpeoria](https://www.facebook.com/cotkpeoria)<br>
-**Presbyters**<br>
-Nathan Riese nathan.riese@gmail.com<br>
-Scott Price<br>
-
 #### Christ Reformed Church, Candor, NY
 meeting in Candor, NY<br>
 Website: [https://christ-reformed-church.net](https://christ-reformed-church.net)<br>
@@ -47,3 +39,12 @@ Website: [https://dominionreformedfellowship.org](https://dominionreformedfellow
 Facebook: [https://www.facebook.com/dominionreformedfellowship](https://www.facebook.com/dominionreformedfellowship)<br>
 **Presbyter:**<br>
 Clint Frazier, clint@dominionreformedfellowship.org, 330-205-3133<br>
+
+#### Princeville Presbyterian Church
+Princeville, IL<br>
+Website: [https://www.princevillepc.org/](https://www.princevillepc.org/)<br>
+Facebook: [https://www.facebook.com/princevillepresbyterian/](https://www.facebook.com/princevillepresbyterian/)<br>
+**Presbyters**<br>
+Nathan Riese, nathan.riese@gmail.com, 309-307-5890<br>
+Steve Lehmann<br>
+Kirk Potter<br>
