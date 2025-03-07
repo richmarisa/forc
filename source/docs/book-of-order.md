@@ -6,7 +6,7 @@ section: content
 ---
 <div class="w-full text-right">
     <a 
-        href="/docs/FORCBook16.pdf"
+        href="/docs/FORCBook17.pdf"
         target="_blank"
     >
         <button type="button" class="m-2">
@@ -226,7 +226,7 @@ In addition to those positions presented in the prior section the following are 
 
   1. ORGANIZED CHURCHES:
 
-Organized churches are recognized by the presence of a Presbytery (i.e., a local ruling court composed of two or more Presbyters/Elders). Such churches may apply for membership in the FORC via application of the Presbyters. A local church is considered a member church when at least one member of the Presbytery of that church possesses FORC credentials.
+Organized churches are recognized by the presence of a Presbytery (i.e., a ruling court composed of two or more Presbyters/Elders, with at least one being local). Such churches may apply for membership in the FORC via application of the Presbyters. A local church is considered a member church when at least one member of the Presbytery of that church possesses FORC credentials.
 
   1. CHURCH PLANTING: Ministers involved in the task of church planting and desiring recognition by the FORC shall contact a local church within the FORC and establish a relationship with that church. An FORC church which becomes involved in such an endeavor shall be referred to as the sponsoring church. The Minister seeking recognition by the FORC shall follow FORC recognition procedures (see Section II, B). Once recognized, the Presbyter of the mission church shall be under the authority and direct supervision of the Presbytery of the sponsoring church. When the sponsoring church ordains, or installs, an additional Presbyter to serve with the first, the mission church will be recognized as a member church within the FORC.
 
@@ -318,7 +318,7 @@ Worship styles and practices in the FORC are at the discretion of the local Pres
 
 This _Book of Church Order_ may be amended by a two-thirds majority vote of a Synod, subject to a concurring two-thirds majority vote of the subsequent Synod.
 
-**IX****. **** ADMINISTRATOR**
+**IX.  ADMINISTRATOR**
 
 1. ELECTION: An Administrator shall be elected at each Synod and will serve until the next Synod, unless he dies, resigns, is excommunicated, or loses his FORC credentials through resignation or through their dissolution by a Council or Synod.
 
