@@ -8,7 +8,7 @@ section: content
 
 Contact Us
  
-<a link="mailto:federationorc@gmail.com">federationorc@gmail.com</a>
+<a href="mailto:federationorc@gmail.com">federationorc@gmail.com</a>
  
 <b>Call or Text:</b><br>
 Dan Brown (Administrator) – (256) 651-1176<br>
