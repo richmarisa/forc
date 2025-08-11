@@ -6,12 +6,11 @@ section: content
 ---
 # Contact Us
 
-## By Mail
-Federation of Reformed Churches<br>
-PO Box 214<br>
-Gurley, AL 35748-8777
+Contact Us
+ 
+<a ref="mailto:federationorc@gmail.com">federastionorc@gmail.com</a>
+ 
+<b>Call or Text:</b><br>
+Dan Brown (Administrator) – (256) 651-1176<br>
+Nate Riese (Co-Administrator) – (309) 307-5890<br>
 
-## By eMail
-Dan Brown, Administrator<br>
-Dan Brown (256) 776-4818 or (256) 651-1176<br>
-banjo5pkr@att.net
