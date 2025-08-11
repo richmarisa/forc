@@ -6,7 +6,6 @@ section: content
 ---
 # Contact Us
 
-Contact Us
  
 <a href="mailto:federationorc@gmail.com">federationorc@gmail.com</a>
  
