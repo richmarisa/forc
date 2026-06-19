@@ -20,7 +20,7 @@ return [
             'Paedocommunion: A Scriptural and Pastoral Presentation' => 'docs/paedocommunion',
             'The History of Paedocommunion - From the Early Church until 1500' => 'docs/history-paedocommunion',
             'Covenant Succession' => 'docs/covenant-succession',
-            'A More Covenental Approach to Tongues at Pentecost' => 'docs/tongues-pentecost',
+            'A More Covenantal Approach to Tongues at Pentecost' => 'docs/tongues-pentecost',
             'Church Music at a Crossroads' => 'docs/church-music',
             'Hosea 14: 1-9' => 'docs/hosea14',
 
