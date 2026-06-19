@@ -1,12 +1,12 @@
 ---
-title: Book of Church Order v 17
+title: Book of Church Order
 description: The Federation of Reformed Churches
 extends: _layouts.documentation
 section: content
 ---
 <div class="w-full text-right">
     <a 
-        href="/docs/FORCBook17.pdf"
+        href="https://drive.google.com/file/d/1Gv7guErj8rv-nBqlGrbcM5Ky0m3gaRMR/"
         target="_blank"
     >
         <button type="button" class="m-2">

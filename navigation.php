@@ -14,14 +14,15 @@ return [
     'Papers' => [
         'url' => '',
         'children' => [
-            'Hosea 14: 1-9' => 'docs/hosea14',
-            'A More Covenental Approach to Tongues at Pentecost' => 'docs/tongues-pentecost',
-            'Paedocommunion: A Scriptural and Pastoral Presentation' => 'docs/paedocommunion',
-            'The Federation of Reformed Churches - A Short History' => 'docs/short-history',
             'Three Ways to Affiliate with the FORC' => 'docs/affiliate-with-forc',
-            'Church Music at a Crossroads' => 'docs/church-music',
-            'Covenant Succession' => 'docs/covenant-succession',
+            'The Federation of Reformed Churches - A Short History' => 'docs/short-history',
+            'Recommended Church Discipline Procedures' => 'docs/recommended-church-discipline-procedures',
+            'Paedocommunion: A Scriptural and Pastoral Presentation' => 'docs/paedocommunion',
             'The History of Paedocommunion - From the Early Church until 1500' => 'docs/history-paedocommunion',
+            'Covenant Succession' => 'docs/covenant-succession',
+            'A More Covenental Approach to Tongues at Pentecost' => 'docs/tongues-pentecost',
+            'Church Music at a Crossroads' => 'docs/church-music',
+            'Hosea 14: 1-9' => 'docs/hosea14',
 
         ],
 
