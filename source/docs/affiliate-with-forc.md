@@ -4,15 +4,19 @@ description: Organized Churches, Church Planting, and Associate Membership
 extends: _layouts.documentation
 section: content
 ---
-# Three Ways To Affiliate With The FORC
 
-### ORGANIZED CHURCHES
-Organized churches are recognized by the presence of a Presbytery (i.e., a local ruling body composed of two or more Presbyters/Elders). Such churches may apply for membership in the FORC via application of the Presbyters. A local church is considered a member church when at least one member of the Presbytery of that church possesses FORC credentials.
+<i>Updated by Presbyter Nate Riese</i><br>
+**The FORC's primary purpose is to serve and nurture local churches.**
+We invite into this federation all who are committed to faithful doctrine, humble discipline, and covenantal sacraments. <b>We aim to serve one another without lording authority over one another;</b> <i>for God opposes the proud, but gives grace to the humble</i> (1 Peter 5:1-5).
 
-### CHURCH PLANTING
-Ministers involved in the task of church planting and desiring recognition by the FORC shall contact a local church within the FORC and establish a relationship with that church. An FORC church which becomes involved in such an endeavor shall be referred to as the sponsoring church. The minister seeking recognition by the FORC shall follow FORC recognition procedures (see BCO II, B). Once recognized, the Presbyter of the mission church shall be under the authority and direct supervision of the Presbytery of the sponsoring church. When the sponsoring church ordains, or installs, an additional Presbyter to serve with the first, the mission church will be recognized as a member church within the FORC.
+<u>To inquire about joining, simply contact the Administrator ([federationorc@gmail.com](mailto:federationorc@gmail.com)), or reach out to any FORC church — we will set up a meeting to get to know one another and to work toward membership.</u> We welcome old or new, large or small, whether meeting in a home or traditional sanctuary. Any person who desires to inquire about or associate generally with the FORC is encouraged to attend Synods as a guest, even if not seeking membership.
 
-### ASSOCIATE MEMBERSHIP
-An associate membership with the FORC may be requested by a Presbytery in general agreement with FORC doctrine and sacraments. This membership must be approved by a Council (See BCO IV, B).
+<b>Local Emphasis<b><br>
+Christ has entrusted the shepherding care and governance of each congregation to its own elders. The broader assemblies of the federation exist to provide encouragement, fellowship, prayer, assistance, and Spirit-led Biblical counsel—not to override, restrict, micromanage, or to usurp local authority.
+
+<br>Churches may hold dual membership</br> in the FORC and another ecclesiastical body. If your church is already connected to another ecclesiastical body, don't let that stop you from connecting with the FORC. The more encouragement, support, accountability, and unity within the Body of Christ, the better.
+
+<br>One who wishes to plant a church</br> may establish a relationship with any FORC church (or contact the Administrator to assist in establishing such a relationship) to request sponsorship.
+
 
 The complete FORC Book of Church Order is <a href="/docs/book-of-order">available here</a>.

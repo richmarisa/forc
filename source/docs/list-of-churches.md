@@ -4,38 +4,27 @@ description:
 extends: _layouts.documentation
 section: content
 ---
-# List of Churches
+
 ### Churches listed alphabetically by state and city
 
 #### Princeville Presbyterian Church
 Princeville, IL<br>
-Website: [https://www.princevillepc.org/](https://www.princevillepc.org/)<br>
-Facebook: [https://www.facebook.com/princevillepresbyterian/](https://www.facebook.com/princevillepresbyterian/)<br>
-**Presbyters**<br>
-Nathan Riese, nathan.riese@gmail.com, 309-307-5890<br>
-Steve Lehmann<br>
-Kirk Potter<br>
+[https://www.princevillepc.org/](https://www.princevillepc.org/)<br>
+Contact: Nathan Riese, [nathan.riese@gmail.com](mailto:nathan.riese@gmail.com), 309-307-5890<br>
+
 
 #### Christ Reformed Church, Candor, NY
-meeting in Candor, NY<br>
-Website: [https://christ-reformed-church.net](https://christ-reformed-church.net)<br>
-**Presbyters**<br>
-Michael Jones, mjones54@twcny.rr.com<br>
-Ralph Reigle<br>
+[https://christ-reformed-church.net](https://christ-reformed-church.net)<br>
+Contact: Michael Jones, [mjones54@twcny.rr.com](mailto:mjones54@gmail.com)<br>
 
-#### St. Stephen's Anglican Church (Associate)
-Williamsville, NY<br>
-Website: [https://saintstephensiacwnydotorg.wordpress.com/](https://saintstephensiacwnydotorg.wordpress.com/)<br>
+#### St. Stephen's Anglican Church
+Williamsville, NY (Associate Church)<br>
+[https://saintstephensiacwnydotorg.wordpress.com/](https://saintstephensiacwnydotorg.wordpress.com/)<br>
 
 **Presbyter:**<br>
-Paul Slish, lemko@roadrunner.com,  716-837-1964<br>
+Paul Slish, [lemko244@gmail.com](mailto:lemko244@gmail.com),  716-837-1964<br>
 
 #### Sovereign Christ Church
-Mansfield, OH 44905<br>
-Website: [https://www.sovereignchrist.net](https://www.sovereignchrist.net)<br>
-**Presbyters:**<br>
-Clint Zeigler, hiswordsrtrue@yahoo.com<br>
-Kyle Robbins<br>
-
-
-
+(Mansfield, OH)<br>
+[https://www.sovereignchrist.net](https://www.sovereignchrist.net)<br>
+Contact: Clint Zeigler, [hiswordsrtrue@yahoo.com](mailto:hiswordsrtrue@yahoo.com), 419-560-1651

@@ -14,7 +14,7 @@ return [
     'Papers' => [
         'url' => '',
         'children' => [
-            'Three Ways to Affiliate with the FORC' => 'docs/affiliate-with-forc',
+            'How to Join the FORC' => 'docs/affiliate-with-forc',
             'The Federation of Reformed Churches - A Short History' => 'docs/short-history',
             'Recommended Church Discipline Procedures' => 'docs/recommended-church-discipline-procedures',
             'Paedocommunion: A Scriptural and Pastoral Presentation' => 'docs/paedocommunion',
